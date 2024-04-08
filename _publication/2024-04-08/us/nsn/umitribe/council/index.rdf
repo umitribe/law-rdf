@@ -1,0 +1,7 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="https://open.law/_publication/2024-04-08">
+    <dcterms:isVersionOf rdf:resource="https://open.law/"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Library"/>
+    <oll:isPartOfPublication rdf:resource="https://open.law/_publication/2024-04-08"/>
+  </rdf:Description>
+</rdf:RDF>
