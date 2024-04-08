@@ -1,0 +1,14 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://open.law/_publication/2024-04-08/_date/2023-10-28/us/nsn/umitribe/council/resolutions/2023/2023-013">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-04-08</dcterms:available>
+    <dcterms:creator xml:lang="en">Open Law Library</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://open.law/us/nsn/umitribe/council/resolutions/2023/adopted/2023-013.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://open.law/_publication/2024-04-08/us/nsn/umitribe/council/resolutions/2023/2023-013"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:title xml:lang="en">2023-013. Civil Procedures Act of 2023.</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2024-04-08/2023-10-28]: 2023-013</rdfs:label>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-10-28</oll:dateEffective>
+    <oll:isPartOfPublication rdf:resource="https://open.law/_publication/2024-04-08"/>
+  </rdf:Description>
+</rdf:RDF>
