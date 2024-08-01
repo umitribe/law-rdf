@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "doc": "2024-015",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element added",
+      "url": "/us/nsn/umitribe/council/resolutions/2024/2024-015",
+      "doc_mpath": "2024-015|",
+      "reason": null
+    }
+  ],
+  "publication_name": "2024-08-01",
+  "codified_date": "2024-06-25",
+  "reasons": {
+    "2024-012": [
+      "effective"
+    ],
+    "2024-013": [
+      "effective"
+    ],
+    "2024-014": [
+      "effective"
+    ],
+    "2024-015": [
+      "created",
+      "effective"
+    ],
+    "2024-016": [
+      "effective"
+    ],
+    "2024-017": [
+      "effective"
+    ],
+    "2024-018": [
+      "effective"
+    ]
+  }
+}
