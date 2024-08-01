@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "doc": "2023-014",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element added",
+      "url": "/us/nsn/umitribe/council/resolutions/2023/2023-014",
+      "doc_mpath": "2023-014|",
+      "reason": null
+    },
+    {
+      "doc": "2023-015",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element added",
+      "url": "/us/nsn/umitribe/council/resolutions/2023/2023-015",
+      "doc_mpath": "2023-015|",
+      "reason": null
+    }
+  ],
+  "publication_name": "2024-08-01",
+  "codified_date": "2023-12-23",
+  "reasons": {
+    "2023-014": [
+      "created"
+    ],
+    "2023-015": [
+      "created"
+    ]
+  }
+}
