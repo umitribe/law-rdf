@@ -1,6 +1,20 @@
 {
-  "data": [],
-  "publication_name": "2024-07-09",
+  "data": [
+    {
+      "doc": "2024-011",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/nsn/umitribe/council/resolutions/2024/2024-011",
+      "doc_mpath": "2024-011|",
+      "lib_mpath": "umitribe/law-rdf|us/nsn/umitribe/council/resolutions|2024|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2024-07-09",
   "codified_date": "2024-05-03",
   "reasons": {
     "2024-011": [

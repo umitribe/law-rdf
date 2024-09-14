@@ -1,6 +1,20 @@
 {
-  "data": [],
-  "publication_name": "2024-04-08",
+  "data": [
+    {
+      "doc": "2023-012",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/nsn/umitribe/council/resolutions/2023/2023-012",
+      "doc_mpath": "2023-012|",
+      "lib_mpath": "umitribe/law-rdf|us/nsn/umitribe/council/resolutions|2023|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2024-04-08",
   "codified_date": "2023-10-26",
   "reasons": {
     "2023-012": [

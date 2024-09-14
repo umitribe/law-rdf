@@ -1,6 +1,86 @@
 {
-  "data": [],
-  "publication_name": "2024-08-01",
+  "data": [
+    {
+      "statuses": [
+        "Element added"
+      ],
+      "name": null,
+      "url": "/",
+      "lib_mpath": "umitribe/law-rdf|",
+      "docs_changes": {
+        "Constitution of the Upper Mattaponi Tribe": "Element added",
+        "Legislative Rules of the Upper Mattaponi Tribe": "Element added"
+      },
+      "colls_changes": {
+        "us/nsn/umitribe/council/resolutions": "Element added"
+      },
+      "ptag": "collection"
+    },
+    {
+      "doc": "Constitution of the Upper Mattaponi Tribe",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added",
+        "Element effective"
+      ],
+      "url": "/us/nsn/umitribe/council/constitution",
+      "doc_mpath": "Constitution of the Upper Mattaponi Tribe|",
+      "lib_mpath": "umitribe/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Legislative Rules of the Upper Mattaponi Tribe",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/legislative_rules",
+      "doc_mpath": "Legislative Rules of the Upper Mattaponi Tribe|",
+      "lib_mpath": "umitribe/law-rdf|",
+      "reason": null
+    },
+    {
+      "statuses": [
+        "Element added"
+      ],
+      "name": "us/nsn/umitribe/council/resolutions",
+      "url": "/us/nsn/umitribe/council/resolutions",
+      "lib_mpath": "umitribe/law-rdf|us/nsn/umitribe/council/resolutions|",
+      "docs_changes": {},
+      "colls_changes": {
+        "2024": "Element added",
+        "2023": "Element added"
+      },
+      "ptag": "collection"
+    },
+    {
+      "statuses": [
+        "Element added"
+      ],
+      "name": "2023",
+      "url": "/us/nsn/umitribe/council/resolutions/2023",
+      "lib_mpath": "umitribe/law-rdf|us/nsn/umitribe/council/resolutions|2023|",
+      "docs_changes": {},
+      "colls_changes": {},
+      "ptag": "collection"
+    },
+    {
+      "statuses": [
+        "Element added"
+      ],
+      "name": "2024",
+      "url": "/us/nsn/umitribe/council/resolutions/2024",
+      "lib_mpath": "umitribe/law-rdf|us/nsn/umitribe/council/resolutions|2024|",
+      "docs_changes": {},
+      "colls_changes": {},
+      "ptag": "collection"
+    }
+  ],
+  "publication_name": "publication/2024-08-01",
   "codified_date": "2023-07-22",
   "reasons": {
     "Constitution of the Upper Mattaponi Tribe": [

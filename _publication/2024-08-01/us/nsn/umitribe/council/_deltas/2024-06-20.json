@@ -1,6 +1,20 @@
 {
-  "data": [],
-  "publication_name": "2024-08-01",
+  "data": [
+    {
+      "doc": "Legislative Rules of the Upper Mattaponi Tribe",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/nsn/umitribe/council/legislative_rules",
+      "doc_mpath": "Legislative Rules of the Upper Mattaponi Tribe|",
+      "lib_mpath": "umitribe/law-rdf|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2024-08-01",
   "codified_date": "2024-06-20",
   "reasons": {
     "Legislative Rules of the Upper Mattaponi Tribe": [

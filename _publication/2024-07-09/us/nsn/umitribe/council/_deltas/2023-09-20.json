@@ -1,13 +1,32 @@
 {
   "data": [
     {
+      "statuses": [
+        "Element changed"
+      ],
+      "name": "2023",
+      "url": "/us/nsn/umitribe/council/resolutions/2023",
+      "lib_mpath": "umitribe/law-rdf|us/nsn/umitribe/council/resolutions|2023|",
+      "docs_changes": {
+        "2023-007": "Element added",
+        "2023-008": "Element added",
+        "2023-009": "Element added",
+        "2023-010": "Element added"
+      },
+      "colls_changes": {},
+      "ptag": "collection"
+    },
+    {
       "doc": "2023-007",
       "path": "",
       "ptag": "document",
       "cite": "",
-      "status": "Element added",
+      "statuses": [
+        "Element added"
+      ],
       "url": "/us/nsn/umitribe/council/resolutions/2023/2023-007",
       "doc_mpath": "2023-007|",
+      "lib_mpath": "umitribe/law-rdf|us/nsn/umitribe/council/resolutions|2023|",
       "reason": null
     },
     {
@@ -15,9 +34,12 @@
       "path": "",
       "ptag": "document",
       "cite": "",
-      "status": "Element added",
+      "statuses": [
+        "Element added"
+      ],
       "url": "/us/nsn/umitribe/council/resolutions/2023/2023-008",
       "doc_mpath": "2023-008|",
+      "lib_mpath": "umitribe/law-rdf|us/nsn/umitribe/council/resolutions|2023|",
       "reason": null
     },
     {
@@ -25,9 +47,12 @@
       "path": "",
       "ptag": "document",
       "cite": "",
-      "status": "Element added",
+      "statuses": [
+        "Element added"
+      ],
       "url": "/us/nsn/umitribe/council/resolutions/2023/2023-009",
       "doc_mpath": "2023-009|",
+      "lib_mpath": "umitribe/law-rdf|us/nsn/umitribe/council/resolutions|2023|",
       "reason": null
     },
     {
@@ -35,13 +60,16 @@
       "path": "",
       "ptag": "document",
       "cite": "",
-      "status": "Element added",
+      "statuses": [
+        "Element added"
+      ],
       "url": "/us/nsn/umitribe/council/resolutions/2023/2023-010",
       "doc_mpath": "2023-010|",
+      "lib_mpath": "umitribe/law-rdf|us/nsn/umitribe/council/resolutions|2023|",
       "reason": null
     }
   ],
-  "publication_name": "2024-07-09",
+  "publication_name": "publication/2024-07-09",
   "codified_date": "2023-09-20",
   "reasons": {
     "2023-007": [
