@@ -1,0 +1,72 @@
+{
+  "data": [
+    {
+      "doc": "2024-019",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/nsn/umitribe/council/resolutions/2024/2024-019",
+      "doc_mpath": "2024-019|",
+      "lib_mpath": "umitribe/law-rdf|us/nsn/umitribe/council/resolutions|2024|",
+      "reason": null
+    },
+    {
+      "doc": "2024-020",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/nsn/umitribe/council/resolutions/2024/2024-020",
+      "doc_mpath": "2024-020|",
+      "lib_mpath": "umitribe/law-rdf|us/nsn/umitribe/council/resolutions|2024|",
+      "reason": null
+    },
+    {
+      "doc": "2024-021",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/nsn/umitribe/council/resolutions/2024/2024-021",
+      "doc_mpath": "2024-021|",
+      "lib_mpath": "umitribe/law-rdf|us/nsn/umitribe/council/resolutions|2024|",
+      "reason": null
+    },
+    {
+      "doc": "2024-022",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/nsn/umitribe/council/resolutions/2024/2024-022",
+      "doc_mpath": "2024-022|",
+      "lib_mpath": "umitribe/law-rdf|us/nsn/umitribe/council/resolutions|2024|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2024-09-18",
+  "codified_date": "2024-09-13",
+  "reasons": {
+    "2024-019": [
+      "effective"
+    ],
+    "2024-020": [
+      "effective"
+    ],
+    "2024-021": [
+      "effective"
+    ],
+    "2024-022": [
+      "effective"
+    ]
+  }
+}
