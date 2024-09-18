@@ -1,0 +1,49 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="././_publication/2024-09-18/_date/2024-09-12/us/nsn/umitribe/council/resolutions/2024">
+    <dcterms:isVersionOf rdf:resource="./_publication/2024-09-18/us/nsn/umitribe/council/resolutions/2024"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#CollectionVersion"/>
+    <rdfs:label xml:lang="en">2024 Resolutions</rdfs:label>
+    <oll:codifiedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-09-12</oll:codifiedDate>
+    <oll:hasChanges rdf:resource="_publication/2024-09-18/_date/2024-09-12/us/nsn/umitribe/council/resolutions/2024/_changes"/>
+    <oll:hasElements rdf:resource="_publication/2024-09-18/_date/2024-09-12/us/nsn/umitribe/council/resolutions/2024/_elements"/>
+    <oll:isPartOfPublication rdf:resource="./_publication/2024-09-18"/>
+    <oll:libraryMaterializedPath xml:lang="en">umitribe/law-rdf|us/nsn/umitribe/council/resolutions|2024|</oll:libraryMaterializedPath>
+    <oll:name xml:lang="en">2024</oll:name>
+    <oll:ptag xml:lang="en">collection</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2024</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-09-18/_date/2024-09-12/us/nsn/umitribe/council/resolutions/2024/_changes">
+    <rdf:_1 rdf:resource="_publication/2024-09-18/_date/2024-09-12/us/nsn/umitribe/council/resolutions/2024/2024-019"/>
+    <rdf:_2 rdf:resource="_publication/2024-09-18/_date/2024-09-12/us/nsn/umitribe/council/resolutions/2024/2024-020"/>
+    <rdf:_3 rdf:resource="_publication/2024-09-18/_date/2024-09-12/us/nsn/umitribe/council/resolutions/2024/2024-021"/>
+    <rdf:_4 rdf:resource="_publication/2024-09-18/_date/2024-09-12/us/nsn/umitribe/council/resolutions/2024/2024-022"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="_publication/2024-09-18/_date/2024-09-12/us/nsn/umitribe/council/resolutions/2024/_elements">
+    <rdf:_10 rdf:resource="us/nsn/umitribe/council/resolutions/2024/2024-014"/>
+    <rdf:_11 rdf:resource="us/nsn/umitribe/council/resolutions/2024/2024-013"/>
+    <rdf:_12 rdf:resource="us/nsn/umitribe/council/resolutions/2024/2024-012"/>
+    <rdf:_13 rdf:resource="us/nsn/umitribe/council/resolutions/2024/2024-011"/>
+    <rdf:_14 rdf:resource="us/nsn/umitribe/council/resolutions/2024/2024-010"/>
+    <rdf:_15 rdf:resource="us/nsn/umitribe/council/resolutions/2024/2024-009"/>
+    <rdf:_16 rdf:resource="us/nsn/umitribe/council/resolutions/2024/2024-008"/>
+    <rdf:_17 rdf:resource="us/nsn/umitribe/council/resolutions/2024/2024-007"/>
+    <rdf:_18 rdf:resource="us/nsn/umitribe/council/resolutions/2024/2024-006"/>
+    <rdf:_19 rdf:resource="us/nsn/umitribe/council/resolutions/2024/2024-005"/>
+    <rdf:_1 xml:lang="en">2024 Resolutions</rdf:_1>
+    <rdf:_20 rdf:resource="us/nsn/umitribe/council/resolutions/2024/2024-004"/>
+    <rdf:_21 rdf:resource="us/nsn/umitribe/council/resolutions/2024/2024-003"/>
+    <rdf:_22 rdf:resource="us/nsn/umitribe/council/resolutions/2024/2024-002"/>
+    <rdf:_23 rdf:resource="us/nsn/umitribe/council/resolutions/2024/2024-001"/>
+    <rdf:_2 rdf:resource="us/nsn/umitribe/council/resolutions/2024/2024-022"/>
+    <rdf:_3 rdf:resource="us/nsn/umitribe/council/resolutions/2024/2024-021"/>
+    <rdf:_4 rdf:resource="us/nsn/umitribe/council/resolutions/2024/2024-020"/>
+    <rdf:_5 rdf:resource="us/nsn/umitribe/council/resolutions/2024/2024-019"/>
+    <rdf:_6 rdf:resource="us/nsn/umitribe/council/resolutions/2024/2024-018"/>
+    <rdf:_7 rdf:resource="us/nsn/umitribe/council/resolutions/2024/2024-017"/>
+    <rdf:_8 rdf:resource="us/nsn/umitribe/council/resolutions/2024/2024-016"/>
+    <rdf:_9 rdf:resource="us/nsn/umitribe/council/resolutions/2024/2024-015"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+  </rdf:Description>
+</rdf:RDF>
