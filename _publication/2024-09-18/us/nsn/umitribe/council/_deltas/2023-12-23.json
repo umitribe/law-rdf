@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "statuses": [
+        "Element changed"
+      ],
+      "name": "2023",
+      "url": "/us/nsn/umitribe/council/resolutions/2023",
+      "lib_mpath": "umitribe/law-rdf|us/nsn/umitribe/council/resolutions|2023|",
+      "docs_changes": {
+        "2023-014": "Element added",
+        "2023-015": "Element added"
+      },
+      "colls_changes": {},
+      "ptag": "collection"
+    },
+    {
+      "doc": "2023-014",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/resolutions/2023/2023-014",
+      "doc_mpath": "2023-014|",
+      "lib_mpath": "umitribe/law-rdf|us/nsn/umitribe/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "2023-015",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/resolutions/2023/2023-015",
+      "doc_mpath": "2023-015|",
+      "lib_mpath": "umitribe/law-rdf|us/nsn/umitribe/council/resolutions|2023|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2024-09-18",
+  "codified_date": "2023-12-23",
+  "reasons": {
+    "2023-014": [
+      "created"
+    ],
+    "2023-015": [
+      "created"
+    ]
+  }
+}
