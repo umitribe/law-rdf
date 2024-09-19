@@ -1,7 +1,7 @@
 <rdf:RDF xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-  <rdf:Description rdf:about="../_publication/2024-08-01/us/nsn/umitribe/council/resolutions">
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-08-01/us/nsn/umitribe/council/resolutions">
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Collection"/>
-    <oll:isPartOfPublication rdf:resource="./_publication/2024-08-01"/>
+    <oll:isPartOfPublication rdf:resource="https://law.umitribe.org/_publication/2024-08-01"/>
     <oll:name xml:lang="en">us/nsn/umitribe/council/resolutions</oll:name>
   </rdf:Description>
 </rdf:RDF>

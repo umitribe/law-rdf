@@ -1,26 +1,26 @@
 <rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
-  <rdf:Description rdf:about="././_publication/2024-04-08/_date/2023-07-22">
-    <dcterms:isVersionOf rdf:resource="./_publication/2024-04-08"/>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-04-08/_date/2023-07-22">
+    <dcterms:isVersionOf rdf:resource="https://law.umitribe.org/_publication/2024-04-08"/>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#CollectionVersion"/>
     <rdfs:label xml:lang="en">Upper Mattaponi Indian Tribe Law Library</rdfs:label>
     <oll:codifiedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-07-22</oll:codifiedDate>
-    <oll:hasChanges rdf:resource="_publication/2024-04-08/_date/2023-07-22/_changes"/>
-    <oll:hasElements rdf:resource="_publication/2024-04-08/_date/2023-07-22/_elements"/>
-    <oll:isPartOfPublication rdf:resource="./_publication/2024-04-08"/>
+    <oll:hasChanges rdf:resource="https://law.umitribe.org/_publication/2024-04-08/_date/2023-07-22/_changes"/>
+    <oll:hasElements rdf:resource="https://law.umitribe.org/_publication/2024-04-08/_date/2023-07-22/_elements"/>
+    <oll:isPartOfPublication rdf:resource="https://law.umitribe.org/_publication/2024-04-08"/>
     <oll:libraryMaterializedPath xml:lang="en">umitribe/law-rdf|</oll:libraryMaterializedPath>
     <oll:ptag xml:lang="en">collection</oll:ptag>
     <oll:status xml:lang="en">Element added</oll:status>
     <oll:url xml:lang="en">/</oll:url>
   </rdf:Description>
-  <rdf:Description rdf:about="_publication/2024-04-08/_date/2023-07-22/_changes">
-    <rdf:_1 rdf:resource="_publication/2024-04-08/_date/2023-07-22/us/nsn/umitribe/council/resolutions"/>
-    <rdf:_2 rdf:resource="_publication/2024-04-08/_date/2023-07-22/us/nsn/umitribe/council/constitution"/>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-04-08/_date/2023-07-22/_changes">
+    <rdf:_1 rdf:resource="https://law.umitribe.org/_publication/2024-04-08/_date/2023-07-22/us/nsn/umitribe/council/resolutions"/>
+    <rdf:_2 rdf:resource="https://law.umitribe.org/_publication/2024-04-08/_date/2023-07-22/us/nsn/umitribe/council/constitution"/>
     <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
   </rdf:Description>
-  <rdf:Description rdf:about="_publication/2024-04-08/_date/2023-07-22/_elements">
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-04-08/_date/2023-07-22/_elements">
     <rdf:_1 xml:lang="en">Upper Mattaponi Indian Tribe Law Library</rdf:_1>
-    <rdf:_2 rdf:resource="us/nsn/umitribe/council/constitution"/>
-    <rdf:_3 rdf:resource="us/nsn/umitribe/council/resolutions"/>
+    <rdf:_2 rdf:resource="https://law.umitribe.org/us/nsn/umitribe/council/constitution"/>
+    <rdf:_3 rdf:resource="https://law.umitribe.org/us/nsn/umitribe/council/resolutions"/>
     <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
   </rdf:Description>
 </rdf:RDF>

@@ -1,31 +1,29 @@
 <rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
-  <rdf:Description rdf:about="./_publication/2024-02-22/_date/2023-10-28/us/nsn/umitribe/council/resolutions/2023/2023-013">
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-02-22/_date/2023-10-28/us/nsn/umitribe/council/resolutions/2023/2023-013">
     <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-02-22</dcterms:available>
     <dcterms:creator xml:lang="en">Upper Mattaponi Tribe</dcterms:creator>
-    <dcterms:hasFormat rdf:resource="us/nsn/umitribe/council/resolutions/2023/2023-013/us/nsn/umitribe/council/resolutions/2023/adopted/2023-013.pdf"/>
-    <dcterms:isVersionOf rdf:resource="./_publication/2024-02-22//us/nsn/umitribe/council/resolutions/2023/2023-013"/>
+    <dcterms:hasFormat rdf:resource="https://law.umitribe.org/us/nsn/umitribe/council/resolutions/2023/2023-013/us/nsn/umitribe/council/resolutions/2023/adopted/2023-013.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://law.umitribe.org/_publication/2024-02-22/us/nsn/umitribe/council/resolutions/2023/2023-013"/>
     <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
     <dcterms:title xml:lang="en">2023-013. Civil Procedures Act of 2023.</dcterms:title>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
     <rdfs:label xml:lang="en">[2024-02-22/2023-10-28]: 2023-013</rdfs:label>
     <oll:buildReason xml:lang="en">created</oll:buildReason>
     <oll:buildReason xml:lang="en">effective</oll:buildReason>
+    <oll:cite xml:lang="en"/>
     <oll:codifiedDate>2023-10-28</oll:codifiedDate>
     <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-10-28</oll:dateEffective>
     <oll:docId>2023-013</oll:docId>
-    <oll:hasChanges rdf:resource="_publication/2024-02-22/_date/2023-10-28/us/nsn/umitribe/council/resolutions/2023/2023-013/_changes"/>
-    <oll:isPartOfPublication rdf:resource="./_publication/2024-02-22"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="_publication/2024-02-22/_date/2023-10-28/us/nsn/umitribe/council/resolutions/2023/2023-013">
-    <oll:cite xml:lang="en"/>
     <oll:documentMaterializedPath xml:lang="en">2023-013|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://law.umitribe.org/_publication/2024-02-22/_date/2023-10-28/us/nsn/umitribe/council/resolutions/2023/2023-013/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://law.umitribe.org/_publication/2024-02-22"/>
     <oll:ptag xml:lang="en">document</oll:ptag>
     <oll:status xml:lang="en">Element added</oll:status>
     <oll:status xml:lang="en">Element effective</oll:status>
     <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2023/2023-013</oll:url>
   </rdf:Description>
-  <rdf:Description rdf:about="_publication/2024-02-22/_date/2023-10-28/us/nsn/umitribe/council/resolutions/2023/2023-013/_changes">
-    <rdf:_1 rdf:resource="_publication/2024-02-22/_date/2023-10-28/us/nsn/umitribe/council/resolutions/2023/2023-013"/>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-02-22/_date/2023-10-28/us/nsn/umitribe/council/resolutions/2023/2023-013/_changes">
+    <rdf:_1 rdf:resource="https://law.umitribe.org/_publication/2024-02-22/_date/2023-10-28/us/nsn/umitribe/council/resolutions/2023/2023-013"/>
     <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
   </rdf:Description>
 </rdf:RDF>

@@ -1,33 +1,33 @@
 <rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
-  <rdf:Description rdf:about="././_publication/2024-07-09/_date/2023-10-28/us/nsn/umitribe/council/resolutions/2023">
-    <dcterms:isVersionOf rdf:resource="./_publication/2024-07-09/us/nsn/umitribe/council/resolutions/2023"/>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-07-09/_date/2023-10-28/us/nsn/umitribe/council/resolutions/2023">
+    <dcterms:isVersionOf rdf:resource="https://law.umitribe.org/_publication/2024-07-09/us/nsn/umitribe/council/resolutions/2023"/>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#CollectionVersion"/>
     <rdfs:label xml:lang="en">2023 Resolutions</rdfs:label>
     <oll:codifiedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-10-28</oll:codifiedDate>
-    <oll:hasChanges rdf:resource="_publication/2024-07-09/_date/2023-10-28/us/nsn/umitribe/council/resolutions/2023/_changes"/>
-    <oll:hasElements rdf:resource="_publication/2024-07-09/_date/2023-10-28/us/nsn/umitribe/council/resolutions/2023/_elements"/>
-    <oll:isPartOfPublication rdf:resource="./_publication/2024-07-09"/>
+    <oll:hasChanges rdf:resource="https://law.umitribe.org/_publication/2024-07-09/_date/2023-10-28/us/nsn/umitribe/council/resolutions/2023/_changes"/>
+    <oll:hasElements rdf:resource="https://law.umitribe.org/_publication/2024-07-09/_date/2023-10-28/us/nsn/umitribe/council/resolutions/2023/_elements"/>
+    <oll:isPartOfPublication rdf:resource="https://law.umitribe.org/_publication/2024-07-09"/>
     <oll:libraryMaterializedPath xml:lang="en">umitribe/law-rdf|us/nsn/umitribe/council/resolutions|2023|</oll:libraryMaterializedPath>
     <oll:name xml:lang="en">2023</oll:name>
     <oll:ptag xml:lang="en">collection</oll:ptag>
     <oll:status xml:lang="en">Element changed</oll:status>
     <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2023</oll:url>
   </rdf:Description>
-  <rdf:Description rdf:about="_publication/2024-07-09/_date/2023-10-28/us/nsn/umitribe/council/resolutions/2023/_changes">
-    <rdf:_1 rdf:resource="_publication/2024-07-09/_date/2023-10-28/us/nsn/umitribe/council/resolutions/2023/2023-013"/>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-07-09/_date/2023-10-28/us/nsn/umitribe/council/resolutions/2023/_changes">
+    <rdf:_1 rdf:resource="https://law.umitribe.org/_publication/2024-07-09/_date/2023-10-28/us/nsn/umitribe/council/resolutions/2023/2023-013"/>
     <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
   </rdf:Description>
-  <rdf:Description rdf:about="_publication/2024-07-09/_date/2023-10-28/us/nsn/umitribe/council/resolutions/2023/_elements">
-    <rdf:_10 rdf:resource="us/nsn/umitribe/council/resolutions/2023/2023-005"/>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-07-09/_date/2023-10-28/us/nsn/umitribe/council/resolutions/2023/_elements">
+    <rdf:_10 rdf:resource="https://law.umitribe.org/us/nsn/umitribe/council/resolutions/2023/2023-005"/>
     <rdf:_1 xml:lang="en">2023 Resolutions</rdf:_1>
-    <rdf:_2 rdf:resource="us/nsn/umitribe/council/resolutions/2023/2023-013"/>
-    <rdf:_3 rdf:resource="us/nsn/umitribe/council/resolutions/2023/2023-012"/>
-    <rdf:_4 rdf:resource="us/nsn/umitribe/council/resolutions/2023/2023-011"/>
-    <rdf:_5 rdf:resource="us/nsn/umitribe/council/resolutions/2023/2023-010"/>
-    <rdf:_6 rdf:resource="us/nsn/umitribe/council/resolutions/2023/2023-009"/>
-    <rdf:_7 rdf:resource="us/nsn/umitribe/council/resolutions/2023/2023-008"/>
-    <rdf:_8 rdf:resource="us/nsn/umitribe/council/resolutions/2023/2023-007"/>
-    <rdf:_9 rdf:resource="us/nsn/umitribe/council/resolutions/2023/2023-006"/>
+    <rdf:_2 rdf:resource="https://law.umitribe.org/us/nsn/umitribe/council/resolutions/2023/2023-013"/>
+    <rdf:_3 rdf:resource="https://law.umitribe.org/us/nsn/umitribe/council/resolutions/2023/2023-012"/>
+    <rdf:_4 rdf:resource="https://law.umitribe.org/us/nsn/umitribe/council/resolutions/2023/2023-011"/>
+    <rdf:_5 rdf:resource="https://law.umitribe.org/us/nsn/umitribe/council/resolutions/2023/2023-010"/>
+    <rdf:_6 rdf:resource="https://law.umitribe.org/us/nsn/umitribe/council/resolutions/2023/2023-009"/>
+    <rdf:_7 rdf:resource="https://law.umitribe.org/us/nsn/umitribe/council/resolutions/2023/2023-008"/>
+    <rdf:_8 rdf:resource="https://law.umitribe.org/us/nsn/umitribe/council/resolutions/2023/2023-007"/>
+    <rdf:_9 rdf:resource="https://law.umitribe.org/us/nsn/umitribe/council/resolutions/2023/2023-006"/>
     <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
   </rdf:Description>
 </rdf:RDF>

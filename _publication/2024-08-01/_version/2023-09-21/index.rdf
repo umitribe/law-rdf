@@ -1,11 +1,11 @@
 <rdf:RDF xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-  <rdf:Description rdf:about="./_publication/2024-08-01/_version/2023-09-21">
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-08-01/_version/2023-09-21">
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#PublicationVersion"/>
-    <oll:buildTrigger rdf:resource="_publication/2024-08-01/_date/2023-09-21/us/nsn/umitribe/council/resolutions/2023/2023-007"/>
-    <oll:buildTrigger rdf:resource="_publication/2024-08-01/_date/2023-09-21/us/nsn/umitribe/council/resolutions/2023/2023-008"/>
-    <oll:buildTrigger rdf:resource="_publication/2024-08-01/_date/2023-09-21/us/nsn/umitribe/council/resolutions/2023/2023-009"/>
-    <oll:buildTrigger rdf:resource="_publication/2024-08-01/_date/2023-09-21/us/nsn/umitribe/council/resolutions/2023/2023-010"/>
+    <oll:buildTrigger rdf:resource="https://law.umitribe.org/_publication/2024-08-01/_date/2023-09-21/us/nsn/umitribe/council/resolutions/2023/2023-007"/>
+    <oll:buildTrigger rdf:resource="https://law.umitribe.org/_publication/2024-08-01/_date/2023-09-21/us/nsn/umitribe/council/resolutions/2023/2023-008"/>
+    <oll:buildTrigger rdf:resource="https://law.umitribe.org/_publication/2024-08-01/_date/2023-09-21/us/nsn/umitribe/council/resolutions/2023/2023-009"/>
+    <oll:buildTrigger rdf:resource="https://law.umitribe.org/_publication/2024-08-01/_date/2023-09-21/us/nsn/umitribe/council/resolutions/2023/2023-010"/>
     <oll:codifiedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-09-21</oll:codifiedDate>
-    <oll:hasPublication rdf:resource="./_publication/2024-08-01"/>
+    <oll:hasPublication rdf:resource="https://law.umitribe.org/_publication/2024-08-01"/>
   </rdf:Description>
 </rdf:RDF>

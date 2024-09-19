@@ -1,10 +1,10 @@
 <rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
-  <rdf:Description rdf:about="./_publication/2024-02-22">
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-02-22">
     <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-02-22</dcterms:available>
     <dcterms:creator xml:lang="en">Upper Mattaponi Tribe</dcterms:creator>
-    <dcterms:isPartOf rdf:resource=".."/>
+    <dcterms:isPartOf rdf:resource="https://law.umitribe.org/"/>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Publication"/>
     <rdfs:label xml:lang="en">Publication 2024-02-22</rdfs:label>
-    <oll:hasDocument rdf:resource="./_publication/2024-02-22/_date/2023-07-22/us/nsn/umitribe/council/constitution"/>
+    <oll:hasDocument rdf:resource="https://law.umitribe.org/_publication/2024-02-22/_date/2023-07-22/us/nsn/umitribe/council/constitution"/>
   </rdf:Description>
 </rdf:RDF>
