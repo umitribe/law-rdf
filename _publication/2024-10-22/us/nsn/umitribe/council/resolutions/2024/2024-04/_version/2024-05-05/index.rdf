@@ -1,0 +1,27 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-10-22/_date/2024-05-05/us/nsn/umitribe/council/resolutions/2024/2024-04">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-10-22</dcterms:available>
+    <dcterms:creator xml:lang="en">Upper Mattaponi Tribe</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://law.umitribe.org/us/nsn/umitribe/council/resolutions/2024/2024-04/us/nsn/umitribe/council/resolutions/2024/adopted/2024-04.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://law.umitribe.org/_publication/2024-10-22/us/nsn/umitribe/council/resolutions/2024/2024-04"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:title xml:lang="en">Res. No. 2024-04. Authorization and Approval of UMIT Services, LLC.</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2024-10-22/2024-05-05]: Upper Mattaponi Tribe Resolution No. 2024-04</rdfs:label>
+    <oll:buildReason xml:lang="en">effective</oll:buildReason>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2024-05-05</oll:codifiedDate>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-05-05</oll:dateEffective>
+    <oll:docId>Upper Mattaponi Tribe Resolution No. 2024-04</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Resolution No. 2024-04|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://law.umitribe.org/_publication/2024-10-22/_date/2024-05-05/us/nsn/umitribe/council/resolutions/2024/2024-04/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://law.umitribe.org/_publication/2024-10-22"/>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element effective</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2024/2024-04</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-10-22/_date/2024-05-05/us/nsn/umitribe/council/resolutions/2024/2024-04/_changes">
+    <rdf:_1 rdf:resource="https://law.umitribe.org/_publication/2024-10-22/_date/2024-05-05/us/nsn/umitribe/council/resolutions/2024/2024-04"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>
