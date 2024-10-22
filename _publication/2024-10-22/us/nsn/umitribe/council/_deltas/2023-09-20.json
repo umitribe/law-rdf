@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "statuses": [
+        "Element changed"
+      ],
+      "name": "2023",
+      "url": "/Resolutions/Bills/Orders/./resolutions/2023",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./resolutions|2023|",
+      "docs_changes": {
+        "2023-07": "Element added",
+        "2023-08": "Element added",
+        "2023-09": "Element added",
+        "2023-10": "Element added"
+      },
+      "colls_changes": {},
+      "ptag": "collection"
+    },
+    {
+      "doc": "2023-07",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/resolutions/2023/2023-07",
+      "doc_mpath": "2023-07|",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "2023-08",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/resolutions/2023/2023-08",
+      "doc_mpath": "2023-08|",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "2023-09",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/resolutions/2023/2023-09",
+      "doc_mpath": "2023-09|",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "2023-10",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/resolutions/2023/2023-10",
+      "doc_mpath": "2023-10|",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./resolutions|2023|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2024-10-22",
+  "codified_date": "2023-09-20",
+  "reasons": {
+    "2023-07": [
+      "created"
+    ],
+    "2023-08": [
+      "created"
+    ],
+    "2023-09": [
+      "created"
+    ],
+    "2023-10": [
+      "created"
+    ]
+  }
+}
