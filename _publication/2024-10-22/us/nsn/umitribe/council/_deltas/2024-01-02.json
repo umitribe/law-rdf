@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "doc": "2023-14",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/nsn/umitribe/council/resolutions/2023/2023-14",
+      "doc_mpath": "2023-14|",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "2023-15",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/nsn/umitribe/council/resolutions/2023/2023-15",
+      "doc_mpath": "2023-15|",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./resolutions|2023|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2024-10-22",
+  "codified_date": "2024-01-02",
+  "reasons": {
+    "2023-14": [
+      "effective"
+    ],
+    "2023-15": [
+      "effective"
+    ]
+  }
+}
