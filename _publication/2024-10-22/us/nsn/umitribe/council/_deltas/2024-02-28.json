@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "doc": "Upper Mattaponi Tribe Bill No. 2024-02",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/nsn/umitribe/council/bills/2024/2024-02",
+      "doc_mpath": "Upper Mattaponi Tribe Bill No. 2024-02|",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./bills|2024|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2024-10-22",
+  "codified_date": "2024-02-28",
+  "reasons": {
+    "Upper Mattaponi Tribe Bill No. 2024-02": [
+      "effective"
+    ]
+  }
+}
