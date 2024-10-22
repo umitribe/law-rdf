@@ -1,0 +1,10 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.umitribe.org/us/nsn/umitribe/council/resolutions/2023/2023-06/us/nsn/umitribe/council/resolutions/2023/adopted/2023-06.pdf">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-10-22</dcterms:available>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:title xml:lang="en">Res. No. 2023-06</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#SourceDocument"/>
+    <rdfs:label xml:lang="en">Res. No. 2023-06</rdfs:label>
+    <oll:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://law.umitribe.org/us/nsn/umitribe/council/resolutions/2023/adopted/2023-06.pdf</oll:url>
+  </rdf:Description>
+</rdf:RDF>
