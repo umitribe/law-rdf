@@ -1,0 +1,163 @@
+{
+  "data": [
+    {
+      "statuses": [
+        "Element changed"
+      ],
+      "name": "2024",
+      "url": "/Resolutions/Bills/Orders/./bills/2024",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./bills|2024|",
+      "docs_changes": {
+        "Upper Mattaponi Tribe Bill No. 2024-04": "Element added"
+      },
+      "colls_changes": {},
+      "ptag": "collection"
+    },
+    {
+      "statuses": [
+        "Element changed"
+      ],
+      "name": "2024",
+      "url": "/Resolutions/Bills/Orders/./budget-resolutions/2024",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./budget-resolutions|2024|",
+      "docs_changes": {
+        "Upper Mattaponi Tribe Budget Resolution No. 2024-02": "Element added"
+      },
+      "colls_changes": {},
+      "ptag": "collection"
+    },
+    {
+      "statuses": [
+        "Element changed"
+      ],
+      "name": "2024",
+      "url": "/Resolutions/Bills/Orders/./resolutions/2024",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./resolutions|2024|",
+      "docs_changes": {
+        "Upper Mattaponi Tribe Resolution No. 2024-06": "Element added",
+        "Upper Mattaponi Tribe Resolution No. 2024-07": "Element added",
+        "Upper Mattaponi Tribe Resolution No. 2024-08": "Element added",
+        "Upper Mattaponi Tribe Resolution No. 2024-09": "Element added",
+        "Upper Mattaponi Tribe Resolution No. 2024-12": "Element added"
+      },
+      "colls_changes": {},
+      "ptag": "collection"
+    },
+    {
+      "doc": "Upper Mattaponi Tribe Bill No. 2024-04",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/bills/2024/2024-04",
+      "doc_mpath": "Upper Mattaponi Tribe Bill No. 2024-04|",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./bills|2024|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribe Budget Resolution No. 2024-02",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/budget-resolutions/2024/2024-02",
+      "doc_mpath": "Upper Mattaponi Tribe Budget Resolution No. 2024-02|",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./budget-resolutions|2024|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribe Resolution No. 2024-06",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/resolutions/2024/2024-06",
+      "doc_mpath": "Upper Mattaponi Tribe Resolution No. 2024-06|",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./resolutions|2024|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribe Resolution No. 2024-07",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/resolutions/2024/2024-07",
+      "doc_mpath": "Upper Mattaponi Tribe Resolution No. 2024-07|",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./resolutions|2024|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribe Resolution No. 2024-08",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/resolutions/2024/2024-08",
+      "doc_mpath": "Upper Mattaponi Tribe Resolution No. 2024-08|",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./resolutions|2024|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribe Resolution No. 2024-09",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/resolutions/2024/2024-09",
+      "doc_mpath": "Upper Mattaponi Tribe Resolution No. 2024-09|",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./resolutions|2024|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribe Resolution No. 2024-12",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/resolutions/2024/2024-12",
+      "doc_mpath": "Upper Mattaponi Tribe Resolution No. 2024-12|",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./resolutions|2024|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2024-10-22",
+  "codified_date": "2024-06-22",
+  "reasons": {
+    "Upper Mattaponi Tribe Budget Resolution No. 2024-02": [
+      "created"
+    ],
+    "Upper Mattaponi Tribe Bill No. 2024-04": [
+      "created"
+    ],
+    "Upper Mattaponi Tribe Resolution No. 2024-06": [
+      "created"
+    ],
+    "Upper Mattaponi Tribe Resolution No. 2024-07": [
+      "created"
+    ],
+    "Upper Mattaponi Tribe Resolution No. 2024-08": [
+      "created"
+    ],
+    "Upper Mattaponi Tribe Resolution No. 2024-09": [
+      "created"
+    ],
+    "Upper Mattaponi Tribe Resolution No. 2024-12": [
+      "created"
+    ]
+  }
+}
