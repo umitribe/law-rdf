@@ -1,0 +1,7 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/us/nsn/umitribe/council/bills/2024/2024-05">
+    <dcterms:isVersionOf rdf:resource="https://law.umitribe.org/us/nsn/umitribe/council/bills/2024/2024-05"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
+    <oll:isPartOfPublication rdf:resource="https://law.umitribe.org/_publication/2024-12-02"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,574 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-12-02</dcterms:available>
+    <dcterms:creator xml:lang="en">Upper Mattaponi Tribe</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://law.umitribe.org/us/nsn/umitribe/council/bills/2024/2024-06/us/nsn/umitribe/council/bills/2024/adopted/2024-06.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://law.umitribe.org/_publication/2024-12-02/us/nsn/umitribe/council/bills/2024/2024-06"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:title xml:lang="en">2024-06. The Wildlife Management Code of the Upper Mattaponi Tribe</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
+    <rdfs:label xml:lang="en">[2024-12-02/2024-10-30]: Upper Mattaponi Tribe Bill No. 2024-06</rdfs:label>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2024-10-30</oll:codifiedDate>
+    <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-09-28</oll:dateAdopted>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-10-01</oll:dateEffective>
+    <oll:docId>Upper Mattaponi Tribe Bill No. 2024-06</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://law.umitribe.org/_publication/2024-12-02"/>
+    <oll:number>2024-06</oll:number>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:status xml:lang="en">Element effective</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law">
+    <oll:cite xml:lang="en">law</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">attachment</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/I">
+    <oll:cite xml:lang="en">CHAPTER I</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|I|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/I</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/I/1-1">
+    <oll:cite xml:lang="en">Section 1-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|I|1-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/I/1-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/I/1-2">
+    <oll:cite xml:lang="en">Section 1-2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|I|1-2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/I/1-2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/I/1-3">
+    <oll:cite xml:lang="en">Section 1-3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|I|1-3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/I/1-3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/I/1-4">
+    <oll:cite xml:lang="en">Section 1-4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|I|1-4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/I/1-4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/I/1-5">
+    <oll:cite xml:lang="en">Section 1-5</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|I|1-5|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/I/1-5</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/II">
+    <oll:cite xml:lang="en">CHAPTER II</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|II|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/II</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/II/2-1">
+    <oll:cite xml:lang="en">Section 2-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|II|2-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/II/2-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/II/2-2">
+    <oll:cite xml:lang="en">Section 2-2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|II|2-2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/II/2-2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/II/2-3">
+    <oll:cite xml:lang="en">Section 2-3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|II|2-3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/II/2-3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/II/2-4">
+    <oll:cite xml:lang="en">Section 2-4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|II|2-4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/II/2-4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/II/2-5">
+    <oll:cite xml:lang="en">Section 2-5</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|II|2-5|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/II/2-5</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/II/2-6">
+    <oll:cite xml:lang="en">Section 2-6</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|II|2-6|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/II/2-6</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/II/2-7">
+    <oll:cite xml:lang="en">Section 2-7</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|II|2-7|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/II/2-7</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III">
+    <oll:cite xml:lang="en">CHAPTER III</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|III|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-1">
+    <oll:cite xml:lang="en">Section 3-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|III|3-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-10">
+    <oll:cite xml:lang="en">Section 3-10</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|III|3-10|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-10</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-11">
+    <oll:cite xml:lang="en">Section 3-11</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|III|3-11|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-11</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-12">
+    <oll:cite xml:lang="en">Section 3-12</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|III|3-12|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-12</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-13">
+    <oll:cite xml:lang="en">Section 3-13</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|III|3-13|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-13</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-14">
+    <oll:cite xml:lang="en">Section 3-14</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|III|3-14|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-14</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-15">
+    <oll:cite xml:lang="en">Section 3-15</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|III|3-15|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-15</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-16">
+    <oll:cite xml:lang="en">Section 3-16</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|III|3-16|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-16</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-17">
+    <oll:cite xml:lang="en">Section 3-17</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|III|3-17|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-17</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-18">
+    <oll:cite xml:lang="en">Section 3-18</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|III|3-18|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-18</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-19">
+    <oll:cite xml:lang="en">Section 3-19</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|III|3-19|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-19</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-2">
+    <oll:cite xml:lang="en">Section 3-2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|III|3-2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-20">
+    <oll:cite xml:lang="en">Section 3-20</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|III|3-20|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-20</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-21">
+    <oll:cite xml:lang="en">Section 3-21</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|III|3-21|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-21</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-22">
+    <oll:cite xml:lang="en">Section 3-22</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|III|3-22|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-22</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-3">
+    <oll:cite xml:lang="en">Section 3-3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|III|3-3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-4">
+    <oll:cite xml:lang="en">Section 3-4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|III|3-4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-5">
+    <oll:cite xml:lang="en">Section 3-5</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|III|3-5|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-5</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-6">
+    <oll:cite xml:lang="en">Section 3-6</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|III|3-6|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-6</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-7">
+    <oll:cite xml:lang="en">Section 3-7</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|III|3-7|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-7</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-8">
+    <oll:cite xml:lang="en">Section 3-8</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|III|3-8|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-8</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-9">
+    <oll:cite xml:lang="en">Section 3-9</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|III|3-9|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-9</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/IV">
+    <oll:cite xml:lang="en">CHAPTER IV</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|IV|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/IV</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/IV/4-1">
+    <oll:cite xml:lang="en">Section 4-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|IV|4-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/IV/4-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/IV/4-10">
+    <oll:cite xml:lang="en">Section 4-10</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|IV|4-10|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/IV/4-10</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/IV/4-2">
+    <oll:cite xml:lang="en">Section 4-2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|IV|4-2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/IV/4-2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/IV/4-3">
+    <oll:cite xml:lang="en">Section 4-3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|IV|4-3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/IV/4-3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/IV/4-4">
+    <oll:cite xml:lang="en">Section 4-4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|IV|4-4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/IV/4-4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/IV/4-5">
+    <oll:cite xml:lang="en">Section 4-5</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|IV|4-5|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/IV/4-5</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/IV/4-6">
+    <oll:cite xml:lang="en">Section 4-6</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|IV|4-6|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/IV/4-6</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/IV/4-7">
+    <oll:cite xml:lang="en">Section 4-7</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|IV|4-7|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/IV/4-7</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/IV/4-8">
+    <oll:cite xml:lang="en">Section 4-8</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|IV|4-8|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/IV/4-8</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/IV/4-9">
+    <oll:cite xml:lang="en">Section 4-9</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|IV|4-9|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/IV/4-9</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/V">
+    <oll:cite xml:lang="en">CHAPTER V</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|V|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/V</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/V/5-1">
+    <oll:cite xml:lang="en">Section 5-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|V|5-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/V/5-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/V/5-10">
+    <oll:cite xml:lang="en">Section 5-10</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|V|5-10|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/V/5-10</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/V/5-11">
+    <oll:cite xml:lang="en">Section 5-11</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|V|5-11|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/V/5-11</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/V/5-12">
+    <oll:cite xml:lang="en">Section 5-12</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|V|5-12|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/V/5-12</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/V/5-13">
+    <oll:cite xml:lang="en">Section 5-13</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|V|5-13|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/V/5-13</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/V/5-14">
+    <oll:cite xml:lang="en">Section 5-14</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|V|5-14|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/V/5-14</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/V/5-15">
+    <oll:cite xml:lang="en">Section 5-15</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|V|5-15|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/V/5-15</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/V/5-16">
+    <oll:cite xml:lang="en">Section 5-16</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|V|5-16|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/V/5-16</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/V/5-17">
+    <oll:cite xml:lang="en">Section 5-17</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|V|5-17|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/V/5-17</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/V/5-18">
+    <oll:cite xml:lang="en">Section 5-18</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|V|5-18|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/V/5-18</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/V/5-2">
+    <oll:cite xml:lang="en">Section 5-2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|V|5-2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/V/5-2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/V/5-3">
+    <oll:cite xml:lang="en">Section 5-3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|V|5-3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/V/5-3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/V/5-4">
+    <oll:cite xml:lang="en">Section 5-4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|V|5-4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/V/5-4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/V/5-5">
+    <oll:cite xml:lang="en">Section 5-5</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|V|5-5|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/V/5-5</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/V/5-6">
+    <oll:cite xml:lang="en">Section 5-6</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|V|5-6|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/V/5-6</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/V/5-7">
+    <oll:cite xml:lang="en">Section 5-7</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|V|5-7|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/V/5-7</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/V/5-8">
+    <oll:cite xml:lang="en">Section 5-8</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|V|5-8|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/V/5-8</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/V/5-9">
+    <oll:cite xml:lang="en">Section 5-9</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Bill No. 2024-06|law|V|5-9|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/V/5-9</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06/_changes">
+    <rdf:_10 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/II/2-1"/>
+    <rdf:_11 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/II/2-2"/>
+    <rdf:_12 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/II/2-3"/>
+    <rdf:_13 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/II/2-4"/>
+    <rdf:_14 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/II/2-5"/>
+    <rdf:_15 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/II/2-6"/>
+    <rdf:_16 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/II/2-7"/>
+    <rdf:_17 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III"/>
+    <rdf:_18 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-1"/>
+    <rdf:_19 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-10"/>
+    <rdf:_1 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06"/>
+    <rdf:_20 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-11"/>
+    <rdf:_21 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-12"/>
+    <rdf:_22 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-13"/>
+    <rdf:_23 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-14"/>
+    <rdf:_24 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-15"/>
+    <rdf:_25 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-16"/>
+    <rdf:_26 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-17"/>
+    <rdf:_27 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-18"/>
+    <rdf:_28 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-19"/>
+    <rdf:_29 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-2"/>
+    <rdf:_2 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law"/>
+    <rdf:_30 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-20"/>
+    <rdf:_31 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-21"/>
+    <rdf:_32 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-22"/>
+    <rdf:_33 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-3"/>
+    <rdf:_34 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-4"/>
+    <rdf:_35 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-5"/>
+    <rdf:_36 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-6"/>
+    <rdf:_37 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-7"/>
+    <rdf:_38 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-8"/>
+    <rdf:_39 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/III/3-9"/>
+    <rdf:_3 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/I"/>
+    <rdf:_40 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/IV"/>
+    <rdf:_41 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/IV/4-1"/>
+    <rdf:_42 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/IV/4-10"/>
+    <rdf:_43 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/IV/4-2"/>
+    <rdf:_44 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/IV/4-3"/>
+    <rdf:_45 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/IV/4-4"/>
+    <rdf:_46 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/IV/4-5"/>
+    <rdf:_47 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/IV/4-6"/>
+    <rdf:_48 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/IV/4-7"/>
+    <rdf:_49 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/IV/4-8"/>
+    <rdf:_4 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/I/1-1"/>
+    <rdf:_50 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/IV/4-9"/>
+    <rdf:_51 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/V"/>
+    <rdf:_52 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/V/5-1"/>
+    <rdf:_53 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/V/5-10"/>
+    <rdf:_54 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/V/5-11"/>
+    <rdf:_55 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/V/5-12"/>
+    <rdf:_56 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/V/5-13"/>
+    <rdf:_57 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/V/5-14"/>
+    <rdf:_58 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/V/5-15"/>
+    <rdf:_59 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/V/5-16"/>
+    <rdf:_5 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/I/1-2"/>
+    <rdf:_60 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/V/5-17"/>
+    <rdf:_61 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/V/5-18"/>
+    <rdf:_62 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/V/5-2"/>
+    <rdf:_63 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/V/5-3"/>
+    <rdf:_64 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/V/5-4"/>
+    <rdf:_65 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/V/5-5"/>
+    <rdf:_66 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/V/5-6"/>
+    <rdf:_67 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/V/5-7"/>
+    <rdf:_68 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/V/5-8"/>
+    <rdf:_69 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/V/5-9"/>
+    <rdf:_6 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/I/1-3"/>
+    <rdf:_7 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/I/1-4"/>
+    <rdf:_8 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/I/1-5"/>
+    <rdf:_9 rdf:resource="https://law.umitribe.org/_publication/2024-12-02/_date/2024-10-30/us/nsn/umitribe/council/bills/2024/2024-06#attachments/law/II"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>
