@@ -1,0 +1,1878 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-01-09</dcterms:available>
+    <dcterms:creator xml:lang="en">Upper Mattaponi Tribe</dcterms:creator>
+    <dcterms:isVersionOf rdf:resource="https://law.umitribe.org/_publication/2025-01-09/us/nsn/umitribe/council/code"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:tableOfContents>
+Title 1 The Chief and Assistant Chief
+Title 4 Administration
+Title 13 Civil Procedure
+Title 18 Environmental Conservation
+Title 42 Tribal Land, Buildings, Property, and Works
+Title 44 Tribal Finance
+Title 45 Voting and Elections
+Title 47 Wildlife Management Code
+</dcterms:tableOfContents>
+    <dcterms:title xml:lang="en">Upper Mattaponi Tribal Code of Law.</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Code"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2025-01-09/2024-10-30]: Upper Mattaponi Tribal Code of Law</rdfs:label>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2024-10-30</oll:codifiedDate>
+    <oll:dateCurrentThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-10-01</oll:dateCurrentThrough>
+    <oll:docId>Upper Mattaponi Tribal Code of Law</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://law.umitribe.org/_publication/2025-01-09"/>
+    <oll:lastCodifiedDocument rdf:resource="https://law.umitribe.org/_publication/2025-01-09/us/nsn/umitribe/council/bills/2024/2024-06"/>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:status xml:lang="en">Element effective</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A71-100">
+    <oll:cite xml:lang="en">Section 100</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|1|1|100|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§1-100</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A71-101">
+    <oll:cite xml:lang="en">Section 101</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|1|1|101|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§1-101</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A71-200">
+    <oll:cite xml:lang="en">Section 200</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|1|2|200|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§1-200</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A71-201">
+    <oll:cite xml:lang="en">Section 201</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|1|2|201|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§1-201</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A71-202">
+    <oll:cite xml:lang="en">Section 202</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|1|2|202|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§1-202</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A71-203">
+    <oll:cite xml:lang="en">Section 203</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|1|2|203|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§1-203</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A713-100">
+    <oll:cite xml:lang="en">Section 100</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|13|1|100|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§13-100</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A713-101">
+    <oll:cite xml:lang="en">Section 101</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|13|1|101|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§13-101</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A713-102">
+    <oll:cite xml:lang="en">Section 102</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|13|1|102|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§13-102</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A713-103">
+    <oll:cite xml:lang="en">Section 103</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|13|1|103|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§13-103</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A713-104">
+    <oll:cite xml:lang="en">Section 104</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|13|1|104|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§13-104</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A713-105">
+    <oll:cite xml:lang="en">Section 105</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|13|1|105|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§13-105</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A713-106">
+    <oll:cite xml:lang="en">Section 106</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|13|1|106|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§13-106</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A718-100">
+    <oll:cite xml:lang="en">Section 100</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|18|1|100|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§18-100</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A718-101">
+    <oll:cite xml:lang="en">Section 101</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|18|1|101|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§18-101</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A718-102">
+    <oll:cite xml:lang="en">Section 102</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|18|1|102|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§18-102</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A718-103">
+    <oll:cite xml:lang="en">Section 103</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|18|1|103|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§18-103</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A718-104">
+    <oll:cite xml:lang="en">Section 104</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|18|1|104|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§18-104</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A718-105">
+    <oll:cite xml:lang="en">Section 105</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|18|1|105|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§18-105</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A718-106">
+    <oll:cite xml:lang="en">Section 106</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|18|1|106|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§18-106</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A718-107">
+    <oll:cite xml:lang="en">Section 107</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|18|1|107|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§18-107</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A718-108">
+    <oll:cite xml:lang="en">Section 108</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|18|1|108|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§18-108</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A718-109">
+    <oll:cite xml:lang="en">Section 109</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|18|1|109|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§18-109</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-100">
+    <oll:cite xml:lang="en">Section 100</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|1|100|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§4-100</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-1000">
+    <oll:cite xml:lang="en">Section 1000</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|10|1000|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§4-1000</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-1001">
+    <oll:cite xml:lang="en">Section 1001</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|10|1001|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§4-1001</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-1002">
+    <oll:cite xml:lang="en">Section 1002</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|10|1002|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§4-1002</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-1003">
+    <oll:cite xml:lang="en">Section 1003</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|10|1003|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§4-1003</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-101">
+    <oll:cite xml:lang="en">Section 101</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|1|101|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§4-101</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-102">
+    <oll:cite xml:lang="en">Section 102</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|1|102|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§4-102</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-103">
+    <oll:cite xml:lang="en">Section 103</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|1|103|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§4-103</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-104">
+    <oll:cite xml:lang="en">Section 104</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|1|104|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§4-104</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-105">
+    <oll:cite xml:lang="en">Section 105</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|1|105|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§4-105</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-1100">
+    <oll:cite xml:lang="en">Section 1100</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|11|1100|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§4-1100</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-1101">
+    <oll:cite xml:lang="en">Section 1101</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|11|1101|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§4-1101</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-1102">
+    <oll:cite xml:lang="en">Section 1102</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|11|1102|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§4-1102</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-1103">
+    <oll:cite xml:lang="en">Section 1103</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|11|1103|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§4-1103</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-1104">
+    <oll:cite xml:lang="en">Section 1104</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|11|1104|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§4-1104</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-1105">
+    <oll:cite xml:lang="en">Section 1105</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|11|1105|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§4-1105</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-1106">
+    <oll:cite xml:lang="en">Section 1106</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|11|1106|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§4-1106</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-200">
+    <oll:cite xml:lang="en">Section 200</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|2|200|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§4-200</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-201">
+    <oll:cite xml:lang="en">Section 201</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|2|201|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§4-201</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-202">
+    <oll:cite xml:lang="en">Section 202</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|2|202|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§4-202</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-203">
+    <oll:cite xml:lang="en">Section 203</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|2|203|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§4-203</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-204">
+    <oll:cite xml:lang="en">Section 204</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|2|204|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§4-204</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-205">
+    <oll:cite xml:lang="en">Section 205</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|2|205|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§4-205</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-206">
+    <oll:cite xml:lang="en">Section 206</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|2|206|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§4-206</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-2100">
+    <oll:cite xml:lang="en">Section 2100</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|21|2100|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§4-2100</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-2101">
+    <oll:cite xml:lang="en">Section 2101</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|21|2101|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§4-2101</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-2102">
+    <oll:cite xml:lang="en">Section 2102</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|21|2102|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§4-2102</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-2103">
+    <oll:cite xml:lang="en">Section 2103</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|21|2103|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§4-2103</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-2104">
+    <oll:cite xml:lang="en">Section 2104</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|21|2104|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§4-2104</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-2105">
+    <oll:cite xml:lang="en">Section 2105</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|21|2105|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§4-2105</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-300">
+    <oll:cite xml:lang="en">Section 300</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|3|300|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§4-300</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-301">
+    <oll:cite xml:lang="en">Section 301</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|3|301|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§4-301</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-302">
+    <oll:cite xml:lang="en">Section 302</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|3|302|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§4-302</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-303">
+    <oll:cite xml:lang="en">Section 303</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|3|303|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§4-303</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-400">
+    <oll:cite xml:lang="en">Section 400</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|4|400|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§4-400</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-401">
+    <oll:cite xml:lang="en">Section 401</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|4|401|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§4-401</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-402">
+    <oll:cite xml:lang="en">Section 402</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|4|402|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§4-402</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-403">
+    <oll:cite xml:lang="en">Section 403</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|4|403|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§4-403</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-500">
+    <oll:cite xml:lang="en">Section 500</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|5|500|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§4-500</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-501">
+    <oll:cite xml:lang="en">Section 501</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|5|501|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§4-501</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-502">
+    <oll:cite xml:lang="en">Section 502</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|5|502|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§4-502</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-503">
+    <oll:cite xml:lang="en">Section 503</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|5|503|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§4-503</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-600">
+    <oll:cite xml:lang="en">Section 600</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|6|600|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§4-600</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-601">
+    <oll:cite xml:lang="en">Section 601</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|6|601|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§4-601</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-602">
+    <oll:cite xml:lang="en">Section 602</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|6|602|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§4-602</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-603">
+    <oll:cite xml:lang="en">Section 603</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|6|603|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§4-603</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-700">
+    <oll:cite xml:lang="en">Section 700</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|7|700|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§4-700</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-701">
+    <oll:cite xml:lang="en">Section 701</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|7|701|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§4-701</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-702">
+    <oll:cite xml:lang="en">Section 702</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|7|702|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§4-702</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-703">
+    <oll:cite xml:lang="en">Section 703</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|7|703|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§4-703</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-800">
+    <oll:cite xml:lang="en">Section 800</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|8|800|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§4-800</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-801">
+    <oll:cite xml:lang="en">Section 801</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|8|801|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§4-801</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-802">
+    <oll:cite xml:lang="en">Section 802</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|8|802|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§4-802</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-803">
+    <oll:cite xml:lang="en">Section 803</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|8|803|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§4-803</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-900">
+    <oll:cite xml:lang="en">Section 900</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|9|900|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§4-900</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-901">
+    <oll:cite xml:lang="en">Section 901</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|9|901|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§4-901</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-902">
+    <oll:cite xml:lang="en">Section 902</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|9|902|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§4-902</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-903">
+    <oll:cite xml:lang="en">Section 903</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|9|903|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§4-903</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A742-100">
+    <oll:cite xml:lang="en">Section 100</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|42|1|100|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§42-100</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A742-101">
+    <oll:cite xml:lang="en">Section 101</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|42|1|101|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§42-101</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A742-102">
+    <oll:cite xml:lang="en">Section 102</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|42|1|102|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§42-102</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A742-103">
+    <oll:cite xml:lang="en">Section 103</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|42|1|103|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§42-103</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A742-200">
+    <oll:cite xml:lang="en">Section 200</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|42|2|200|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§42-200</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A742-201">
+    <oll:cite xml:lang="en">Section 201</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|42|2|201|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§42-201</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A742-202">
+    <oll:cite xml:lang="en">Section 202</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|42|2|202|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§42-202</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A742-203">
+    <oll:cite xml:lang="en">Section 203</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|42|2|203|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§42-203</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A742-204">
+    <oll:cite xml:lang="en">Section 204</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|42|2|204|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§42-204</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A742-205">
+    <oll:cite xml:lang="en">Section 205</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|42|2|205|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§42-205</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A742-206">
+    <oll:cite xml:lang="en">Section 206</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|42|2|206|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§42-206</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A742-207">
+    <oll:cite xml:lang="en">Section 207</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|42|2|207|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§42-207</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A742-300">
+    <oll:cite xml:lang="en">Section 300</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|42|3|300|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§42-300</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A742-301">
+    <oll:cite xml:lang="en">Section 301</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|42|3|301|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§42-301</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A742-302">
+    <oll:cite xml:lang="en">Section 302</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|42|3|302|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§42-302</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A742-303">
+    <oll:cite xml:lang="en">Section 303</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|42|3|303|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§42-303</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A742-304">
+    <oll:cite xml:lang="en">Section 304</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|42|3|304|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§42-304</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A742-305">
+    <oll:cite xml:lang="en">Section 305</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|42|3|305|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§42-305</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A742-306">
+    <oll:cite xml:lang="en">Section 306</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|42|3|306|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§42-306</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A742-307">
+    <oll:cite xml:lang="en">Section 307</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|42|3|307|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§42-307</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A744-100">
+    <oll:cite xml:lang="en">Section 100</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|44|1|100|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§44-100</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A744-101">
+    <oll:cite xml:lang="en">Section 101</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|44|1|101|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§44-101</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A744-102">
+    <oll:cite xml:lang="en">Section 102</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|44|1|102|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§44-102</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A744-103">
+    <oll:cite xml:lang="en">Section 103</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|44|1|103|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§44-103</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A744-104">
+    <oll:cite xml:lang="en">Section 104</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|44|1|104|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§44-104</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A744-105">
+    <oll:cite xml:lang="en">Section 105</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|44|1|105|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§44-105</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A744-106">
+    <oll:cite xml:lang="en">Section 106</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|44|1|106|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§44-106</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A744-107">
+    <oll:cite xml:lang="en">Section 107</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|44|1|107|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§44-107</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A744-108">
+    <oll:cite xml:lang="en">Section 108</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|44|1|108|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§44-108</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A744-109">
+    <oll:cite xml:lang="en">Section 109</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|44|1|109|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§44-109</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A744-110">
+    <oll:cite xml:lang="en">Section 110</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|44|1|110|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§44-110</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A744-111">
+    <oll:cite xml:lang="en">Section 111</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|44|1|111|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§44-111</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A744-112">
+    <oll:cite xml:lang="en">Section 112</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|44|1|112|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§44-112</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A744-113">
+    <oll:cite xml:lang="en">Section 113</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|44|1|113|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§44-113</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A745-100">
+    <oll:cite xml:lang="en">Section 100</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|45|1|100|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§45-100</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A745-101">
+    <oll:cite xml:lang="en">Section 101</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|45|1|101|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§45-101</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A745-102">
+    <oll:cite xml:lang="en">Section 102</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|45|1|102|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§45-102</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A745-103">
+    <oll:cite xml:lang="en">Section 103</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|45|1|103|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§45-103</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A745-104">
+    <oll:cite xml:lang="en">Section 104</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|45|1|104|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§45-104</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A745-105">
+    <oll:cite xml:lang="en">Section 105</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|45|1|105|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§45-105</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A745-106">
+    <oll:cite xml:lang="en">Section 106</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|45|1|106|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§45-106</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A745-107">
+    <oll:cite xml:lang="en">Section 107</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|45|1|107|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§45-107</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A745-108">
+    <oll:cite xml:lang="en">Section 108</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|45|1|108|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§45-108</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A745-109">
+    <oll:cite xml:lang="en">Section 109</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|45|1|109|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§45-109</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A745-110">
+    <oll:cite xml:lang="en">Section 110</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|45|1|110|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§45-110</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A745-111">
+    <oll:cite xml:lang="en">Section 111</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|45|1|111|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§45-111</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A745-112">
+    <oll:cite xml:lang="en">Section 112</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|45|1|112|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§45-112</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A745-113">
+    <oll:cite xml:lang="en">Section 113</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|45|1|113|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§45-113</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A745-114">
+    <oll:cite xml:lang="en">Section 114</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|45|1|114|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§45-114</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A745-115">
+    <oll:cite xml:lang="en">Section 115</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|45|1|115|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§45-115</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A745-116">
+    <oll:cite xml:lang="en">Section 116</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|45|1|116|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§45-116</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A745-117">
+    <oll:cite xml:lang="en">Section 117</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|45|1|117|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§45-117</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A745-118">
+    <oll:cite xml:lang="en">Section 118</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|45|1|118|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§45-118</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-100">
+    <oll:cite xml:lang="en">Section 100</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|1|100|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§47-100</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-101">
+    <oll:cite xml:lang="en">Section 101</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|1|101|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§47-101</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-102">
+    <oll:cite xml:lang="en">Section 102</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|1|102|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§47-102</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-103">
+    <oll:cite xml:lang="en">Section 103</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|1|103|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§47-103</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-104">
+    <oll:cite xml:lang="en">Section 104</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|1|104|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§47-104</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-200">
+    <oll:cite xml:lang="en">Section 200</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|2|200|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§47-200</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-201">
+    <oll:cite xml:lang="en">Section 201</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|2|201|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§47-201</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-202">
+    <oll:cite xml:lang="en">Section 202</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|2|202|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§47-202</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-203">
+    <oll:cite xml:lang="en">Section 203</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|2|203|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§47-203</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-204">
+    <oll:cite xml:lang="en">Section 204</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|2|204|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§47-204</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-205">
+    <oll:cite xml:lang="en">Section 205</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|2|205|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§47-205</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-206">
+    <oll:cite xml:lang="en">Section 206</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|2|206|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§47-206</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-300">
+    <oll:cite xml:lang="en">Section 300</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|3|300|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§47-300</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-301">
+    <oll:cite xml:lang="en">Section 301</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|3|301|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§47-301</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-302">
+    <oll:cite xml:lang="en">Section 302</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|3|302|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§47-302</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-303">
+    <oll:cite xml:lang="en">Section 303</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|3|303|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§47-303</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-304">
+    <oll:cite xml:lang="en">Section 304</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|3|304|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§47-304</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-305">
+    <oll:cite xml:lang="en">Section 305</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|3|305|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§47-305</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-306">
+    <oll:cite xml:lang="en">Section 306</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|3|306|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§47-306</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-307">
+    <oll:cite xml:lang="en">Section 307</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|3|307|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§47-307</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-308">
+    <oll:cite xml:lang="en">Section 308</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|3|308|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§47-308</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-309">
+    <oll:cite xml:lang="en">Section 309</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|3|309|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§47-309</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-310">
+    <oll:cite xml:lang="en">Section 310</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|3|310|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§47-310</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-311">
+    <oll:cite xml:lang="en">Section 311</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|3|311|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§47-311</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-312">
+    <oll:cite xml:lang="en">Section 312</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|3|312|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§47-312</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-313">
+    <oll:cite xml:lang="en">Section 313</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|3|313|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§47-313</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-314">
+    <oll:cite xml:lang="en">Section 314</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|3|314|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§47-314</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-315">
+    <oll:cite xml:lang="en">Section 315</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|3|315|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§47-315</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-316">
+    <oll:cite xml:lang="en">Section 316</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|3|316|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§47-316</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-317">
+    <oll:cite xml:lang="en">Section 317</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|3|317|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§47-317</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-318">
+    <oll:cite xml:lang="en">Section 318</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|3|318|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§47-318</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-319">
+    <oll:cite xml:lang="en">Section 319</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|3|319|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§47-319</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-320">
+    <oll:cite xml:lang="en">Section 320</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|3|320|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§47-320</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-321">
+    <oll:cite xml:lang="en">Section 321</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|3|321|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§47-321</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-400">
+    <oll:cite xml:lang="en">Section 400</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|4|400|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§47-400</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-401">
+    <oll:cite xml:lang="en">Section 401</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|4|401|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§47-401</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-402">
+    <oll:cite xml:lang="en">Section 402</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|4|402|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§47-402</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-403">
+    <oll:cite xml:lang="en">Section 403</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|4|403|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§47-403</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-404">
+    <oll:cite xml:lang="en">Section 404</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|4|404|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§47-404</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-405">
+    <oll:cite xml:lang="en">Section 405</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|4|405|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§47-405</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-406">
+    <oll:cite xml:lang="en">Section 406</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|4|406|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§47-406</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-407">
+    <oll:cite xml:lang="en">Section 407</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|4|407|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§47-407</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-408">
+    <oll:cite xml:lang="en">Section 408</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|4|408|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§47-408</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-409">
+    <oll:cite xml:lang="en">Section 409</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|4|409|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§47-409</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-500">
+    <oll:cite xml:lang="en">Section 500</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|5|500|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§47-500</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-501">
+    <oll:cite xml:lang="en">Section 501</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|5|501|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§47-501</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-502">
+    <oll:cite xml:lang="en">Section 502</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|5|502|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§47-502</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-503">
+    <oll:cite xml:lang="en">Section 503</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|5|503|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§47-503</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-504">
+    <oll:cite xml:lang="en">Section 504</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|5|504|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§47-504</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-505">
+    <oll:cite xml:lang="en">Section 505</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|5|505|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§47-505</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-506">
+    <oll:cite xml:lang="en">Section 506</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|5|506|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§47-506</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-507">
+    <oll:cite xml:lang="en">Section 507</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|5|507|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§47-507</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-508">
+    <oll:cite xml:lang="en">Section 508</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|5|508|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§47-508</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-509">
+    <oll:cite xml:lang="en">Section 509</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|5|509|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§47-509</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-510">
+    <oll:cite xml:lang="en">Section 510</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|5|510|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§47-510</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-511">
+    <oll:cite xml:lang="en">Section 511</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|5|511|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§47-511</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-512">
+    <oll:cite xml:lang="en">Section 512</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|5|512|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§47-512</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-513">
+    <oll:cite xml:lang="en">Section 513</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|5|513|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§47-513</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-514">
+    <oll:cite xml:lang="en">Section 514</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|5|514|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§47-514</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-515">
+    <oll:cite xml:lang="en">Section 515</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|5|515|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§47-515</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-516">
+    <oll:cite xml:lang="en">Section 516</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|5|516|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§47-516</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-517">
+    <oll:cite xml:lang="en">Section 517</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|5|517|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/§47-517</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/1">
+    <oll:cite xml:lang="en">Title 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/1-1">
+    <oll:cite xml:lang="en">Chapter 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|1|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/1-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/1-2">
+    <oll:cite xml:lang="en">Chapter 2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|1|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/1-2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/13">
+    <oll:cite xml:lang="en">Title 13</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|13|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/13</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/13-1">
+    <oll:cite xml:lang="en">Chapter 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|13|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/13-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/18">
+    <oll:cite xml:lang="en">Title 18</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|18|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/18</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/18-1">
+    <oll:cite xml:lang="en">Chapter 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|18|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/18-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/4">
+    <oll:cite xml:lang="en">Title 4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/4-1">
+    <oll:cite xml:lang="en">Chapter 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/4-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/4-10">
+    <oll:cite xml:lang="en">Chapter 10</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|10|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/4-10</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/4-11">
+    <oll:cite xml:lang="en">Chapter 11</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|11|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/4-11</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/4-2">
+    <oll:cite xml:lang="en">Chapter 2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/4-2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/4-21">
+    <oll:cite xml:lang="en">Chapter 21</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|21|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/4-21</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/4-3">
+    <oll:cite xml:lang="en">Chapter 3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/4-3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/4-4">
+    <oll:cite xml:lang="en">Chapter 4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/4-4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/4-5">
+    <oll:cite xml:lang="en">Chapter 5</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|5|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/4-5</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/4-6">
+    <oll:cite xml:lang="en">Chapter 6</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|6|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/4-6</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/4-7">
+    <oll:cite xml:lang="en">Chapter 7</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|7|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/4-7</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/4-8">
+    <oll:cite xml:lang="en">Chapter 8</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|8|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/4-8</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/4-9">
+    <oll:cite xml:lang="en">Chapter 9</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|4|9|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/4-9</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/42">
+    <oll:cite xml:lang="en">Title 42</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|42|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/42</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/42-1">
+    <oll:cite xml:lang="en">Chapter 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|42|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/42-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/42-2">
+    <oll:cite xml:lang="en">Chapter 2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|42|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/42-2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/42-3">
+    <oll:cite xml:lang="en">Chapter 3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|42|3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/42-3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/44">
+    <oll:cite xml:lang="en">Title 44</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|44|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/44</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/44-1">
+    <oll:cite xml:lang="en">Chapter 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|44|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/44-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/45">
+    <oll:cite xml:lang="en">Title 45</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|45|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/45</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/45-1">
+    <oll:cite xml:lang="en">Chapter 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|45|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/45-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/47">
+    <oll:cite xml:lang="en">Title 47</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/47</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/47-1">
+    <oll:cite xml:lang="en">Chapter 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/47-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/47-2">
+    <oll:cite xml:lang="en">Chapter 2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/47-2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/47-3">
+    <oll:cite xml:lang="en">Chapter 3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/47-3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/47-4">
+    <oll:cite xml:lang="en">Chapter 4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/47-4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/47-5">
+    <oll:cite xml:lang="en">Chapter 5</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribal Code of Law|47|5|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/code/47-5</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/_changes">
+    <rdf:_100 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-503"/>
+    <rdf:_101 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-600"/>
+    <rdf:_102 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-601"/>
+    <rdf:_103 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-602"/>
+    <rdf:_104 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-603"/>
+    <rdf:_105 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-700"/>
+    <rdf:_106 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-701"/>
+    <rdf:_107 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-702"/>
+    <rdf:_108 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-703"/>
+    <rdf:_109 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-800"/>
+    <rdf:_10 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/4-1"/>
+    <rdf:_110 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-801"/>
+    <rdf:_111 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-802"/>
+    <rdf:_112 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-803"/>
+    <rdf:_113 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-900"/>
+    <rdf:_114 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-901"/>
+    <rdf:_115 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-902"/>
+    <rdf:_116 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-903"/>
+    <rdf:_117 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A742-100"/>
+    <rdf:_118 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A742-101"/>
+    <rdf:_119 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A742-102"/>
+    <rdf:_11 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/4-10"/>
+    <rdf:_120 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A742-103"/>
+    <rdf:_121 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A742-200"/>
+    <rdf:_122 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A742-201"/>
+    <rdf:_123 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A742-202"/>
+    <rdf:_124 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A742-203"/>
+    <rdf:_125 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A742-204"/>
+    <rdf:_126 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A742-205"/>
+    <rdf:_127 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A742-206"/>
+    <rdf:_128 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A742-207"/>
+    <rdf:_129 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A742-300"/>
+    <rdf:_12 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/4-11"/>
+    <rdf:_130 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A742-301"/>
+    <rdf:_131 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A742-302"/>
+    <rdf:_132 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A742-303"/>
+    <rdf:_133 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A742-304"/>
+    <rdf:_134 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A742-305"/>
+    <rdf:_135 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A742-306"/>
+    <rdf:_136 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A742-307"/>
+    <rdf:_137 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A744-100"/>
+    <rdf:_138 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A744-101"/>
+    <rdf:_139 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A744-102"/>
+    <rdf:_13 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/4-2"/>
+    <rdf:_140 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A744-103"/>
+    <rdf:_141 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A744-104"/>
+    <rdf:_142 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A744-105"/>
+    <rdf:_143 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A744-106"/>
+    <rdf:_144 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A744-107"/>
+    <rdf:_145 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A744-108"/>
+    <rdf:_146 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A744-109"/>
+    <rdf:_147 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A744-110"/>
+    <rdf:_148 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A744-111"/>
+    <rdf:_149 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A744-112"/>
+    <rdf:_14 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/4-21"/>
+    <rdf:_150 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A744-113"/>
+    <rdf:_151 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A745-100"/>
+    <rdf:_152 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A745-101"/>
+    <rdf:_153 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A745-102"/>
+    <rdf:_154 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A745-103"/>
+    <rdf:_155 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A745-104"/>
+    <rdf:_156 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A745-105"/>
+    <rdf:_157 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A745-106"/>
+    <rdf:_158 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A745-107"/>
+    <rdf:_159 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A745-108"/>
+    <rdf:_15 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/4-3"/>
+    <rdf:_160 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A745-109"/>
+    <rdf:_161 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A745-110"/>
+    <rdf:_162 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A745-111"/>
+    <rdf:_163 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A745-112"/>
+    <rdf:_164 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A745-113"/>
+    <rdf:_165 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A745-114"/>
+    <rdf:_166 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A745-115"/>
+    <rdf:_167 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A745-116"/>
+    <rdf:_168 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A745-117"/>
+    <rdf:_169 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A745-118"/>
+    <rdf:_16 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/4-4"/>
+    <rdf:_170 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-100"/>
+    <rdf:_171 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-101"/>
+    <rdf:_172 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-102"/>
+    <rdf:_173 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-103"/>
+    <rdf:_174 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-104"/>
+    <rdf:_175 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-200"/>
+    <rdf:_176 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-201"/>
+    <rdf:_177 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-202"/>
+    <rdf:_178 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-203"/>
+    <rdf:_179 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-204"/>
+    <rdf:_17 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/4-5"/>
+    <rdf:_180 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-205"/>
+    <rdf:_181 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-206"/>
+    <rdf:_182 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-300"/>
+    <rdf:_183 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-301"/>
+    <rdf:_184 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-302"/>
+    <rdf:_185 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-303"/>
+    <rdf:_186 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-304"/>
+    <rdf:_187 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-305"/>
+    <rdf:_188 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-306"/>
+    <rdf:_189 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-307"/>
+    <rdf:_18 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/4-6"/>
+    <rdf:_190 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-308"/>
+    <rdf:_191 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-309"/>
+    <rdf:_192 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-310"/>
+    <rdf:_193 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-311"/>
+    <rdf:_194 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-312"/>
+    <rdf:_195 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-313"/>
+    <rdf:_196 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-314"/>
+    <rdf:_197 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-315"/>
+    <rdf:_198 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-316"/>
+    <rdf:_199 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-317"/>
+    <rdf:_19 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/4-7"/>
+    <rdf:_1 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code"/>
+    <rdf:_200 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-318"/>
+    <rdf:_201 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-319"/>
+    <rdf:_202 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-320"/>
+    <rdf:_203 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-321"/>
+    <rdf:_204 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-400"/>
+    <rdf:_205 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-401"/>
+    <rdf:_206 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-402"/>
+    <rdf:_207 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-403"/>
+    <rdf:_208 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-404"/>
+    <rdf:_209 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-405"/>
+    <rdf:_20 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/4-8"/>
+    <rdf:_210 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-406"/>
+    <rdf:_211 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-407"/>
+    <rdf:_212 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-408"/>
+    <rdf:_213 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-409"/>
+    <rdf:_214 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-500"/>
+    <rdf:_215 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-501"/>
+    <rdf:_216 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-502"/>
+    <rdf:_217 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-503"/>
+    <rdf:_218 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-504"/>
+    <rdf:_219 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-505"/>
+    <rdf:_21 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/4-9"/>
+    <rdf:_220 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-506"/>
+    <rdf:_221 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-507"/>
+    <rdf:_222 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-508"/>
+    <rdf:_223 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-509"/>
+    <rdf:_224 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-510"/>
+    <rdf:_225 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-511"/>
+    <rdf:_226 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-512"/>
+    <rdf:_227 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-513"/>
+    <rdf:_228 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-514"/>
+    <rdf:_229 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-515"/>
+    <rdf:_22 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/42"/>
+    <rdf:_230 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-516"/>
+    <rdf:_231 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A747-517"/>
+    <rdf:_23 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/42-1"/>
+    <rdf:_24 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/42-2"/>
+    <rdf:_25 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/42-3"/>
+    <rdf:_26 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/44"/>
+    <rdf:_27 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/44-1"/>
+    <rdf:_28 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/45"/>
+    <rdf:_29 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/45-1"/>
+    <rdf:_2 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/1"/>
+    <rdf:_30 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/47"/>
+    <rdf:_31 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/47-1"/>
+    <rdf:_32 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/47-2"/>
+    <rdf:_33 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/47-3"/>
+    <rdf:_34 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/47-4"/>
+    <rdf:_35 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/47-5"/>
+    <rdf:_36 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A71-100"/>
+    <rdf:_37 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A71-101"/>
+    <rdf:_38 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A71-200"/>
+    <rdf:_39 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A71-201"/>
+    <rdf:_3 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/1-1"/>
+    <rdf:_40 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A71-202"/>
+    <rdf:_41 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A71-203"/>
+    <rdf:_42 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A713-100"/>
+    <rdf:_43 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A713-101"/>
+    <rdf:_44 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A713-102"/>
+    <rdf:_45 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A713-103"/>
+    <rdf:_46 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A713-104"/>
+    <rdf:_47 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A713-105"/>
+    <rdf:_48 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A713-106"/>
+    <rdf:_49 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A718-100"/>
+    <rdf:_4 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/1-2"/>
+    <rdf:_50 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A718-101"/>
+    <rdf:_51 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A718-102"/>
+    <rdf:_52 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A718-103"/>
+    <rdf:_53 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A718-104"/>
+    <rdf:_54 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A718-105"/>
+    <rdf:_55 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A718-106"/>
+    <rdf:_56 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A718-107"/>
+    <rdf:_57 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A718-108"/>
+    <rdf:_58 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A718-109"/>
+    <rdf:_59 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-100"/>
+    <rdf:_5 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/13"/>
+    <rdf:_60 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-1000"/>
+    <rdf:_61 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-1001"/>
+    <rdf:_62 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-1002"/>
+    <rdf:_63 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-1003"/>
+    <rdf:_64 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-101"/>
+    <rdf:_65 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-102"/>
+    <rdf:_66 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-103"/>
+    <rdf:_67 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-104"/>
+    <rdf:_68 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-105"/>
+    <rdf:_69 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-1100"/>
+    <rdf:_6 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/13-1"/>
+    <rdf:_70 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-1101"/>
+    <rdf:_71 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-1102"/>
+    <rdf:_72 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-1103"/>
+    <rdf:_73 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-1104"/>
+    <rdf:_74 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-1105"/>
+    <rdf:_75 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-1106"/>
+    <rdf:_76 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-200"/>
+    <rdf:_77 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-201"/>
+    <rdf:_78 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-202"/>
+    <rdf:_79 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-203"/>
+    <rdf:_7 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/18"/>
+    <rdf:_80 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-204"/>
+    <rdf:_81 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-205"/>
+    <rdf:_82 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-206"/>
+    <rdf:_83 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-2100"/>
+    <rdf:_84 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-2101"/>
+    <rdf:_85 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-2102"/>
+    <rdf:_86 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-2103"/>
+    <rdf:_87 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-2104"/>
+    <rdf:_88 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-2105"/>
+    <rdf:_89 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-300"/>
+    <rdf:_8 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/18-1"/>
+    <rdf:_90 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-301"/>
+    <rdf:_91 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-302"/>
+    <rdf:_92 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-303"/>
+    <rdf:_93 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-400"/>
+    <rdf:_94 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-401"/>
+    <rdf:_95 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-402"/>
+    <rdf:_96 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-403"/>
+    <rdf:_97 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-500"/>
+    <rdf:_98 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-501"/>
+    <rdf:_99 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/%C2%A74-502"/>
+    <rdf:_9 rdf:resource="https://law.umitribe.org/_publication/2025-01-09/_date/2024-10-30/us/nsn/umitribe/council/code/4"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>

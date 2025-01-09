@@ -1,0 +1,7 @@
+<rdf:RDF xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-01-09/Resolutions/Bills/Orders">
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Collection"/>
+    <oll:isPartOfPublication rdf:resource="https://law.umitribe.org/_publication/2025-01-09"/>
+    <oll:name xml:lang="en">Resolutions/Bills/Orders</oll:name>
+  </rdf:Description>
+</rdf:RDF>
