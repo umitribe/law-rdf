@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "doc": "Upper Mattaponi Tribe Bill No. 2024-05",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/nsn/umitribe/council/bills/2024/2024-05",
+      "doc_mpath": "Upper Mattaponi Tribe Bill No. 2024-05|",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./bills|2024|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2025-04-01",
+  "codified_date": "2024-12-29",
+  "reasons": {
+    "Upper Mattaponi Tribe Bill No. 2024-05": [
+      "effective"
+    ]
+  }
+}
