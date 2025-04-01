@@ -1,0 +1,336 @@
+{
+  "data": [
+    {
+      "statuses": [
+        "Element changed"
+      ],
+      "name": "2025",
+      "url": "/Resolutions/Bills/Orders/./resolutions/2025",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./resolutions|2025|",
+      "docs_changes": {
+        "Upper Mattaponi Tribe Res. No. 2025-02": "Element added"
+      },
+      "colls_changes": {},
+      "ptag": "collection"
+    },
+    {
+      "doc": "Upper Mattaponi Tribe Res. No. 2025-02",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/resolutions/2025/2025-02",
+      "doc_mpath": "Upper Mattaponi Tribe Res. No. 2025-02|",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./resolutions|2025|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribe Res. No. 2025-02",
+      "path": "attachments|law",
+      "ptag": "attachment",
+      "cite": "law",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/resolutions/2025/2025-02#attachments/law",
+      "doc_mpath": "Upper Mattaponi Tribe Res. No. 2025-02|law|",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./resolutions|2025|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribe Res. No. 2025-02",
+      "path": "attachments|law|1",
+      "ptag": "section",
+      "cite": "Section 1",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/resolutions/2025/2025-02#attachments/law/1",
+      "doc_mpath": "Upper Mattaponi Tribe Res. No. 2025-02|law|1|",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./resolutions|2025|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribe Res. No. 2025-02",
+      "path": "attachments|law|10",
+      "ptag": "section",
+      "cite": "Section 10",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/resolutions/2025/2025-02#attachments/law/10",
+      "doc_mpath": "Upper Mattaponi Tribe Res. No. 2025-02|law|10|",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./resolutions|2025|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribe Res. No. 2025-02",
+      "path": "attachments|law|11",
+      "ptag": "section",
+      "cite": "Section 11",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/resolutions/2025/2025-02#attachments/law/11",
+      "doc_mpath": "Upper Mattaponi Tribe Res. No. 2025-02|law|11|",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./resolutions|2025|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribe Res. No. 2025-02",
+      "path": "attachments|law|12",
+      "ptag": "section",
+      "cite": "Section 12",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/resolutions/2025/2025-02#attachments/law/12",
+      "doc_mpath": "Upper Mattaponi Tribe Res. No. 2025-02|law|12|",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./resolutions|2025|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribe Res. No. 2025-02",
+      "path": "attachments|law|13",
+      "ptag": "section",
+      "cite": "Section 13",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/resolutions/2025/2025-02#attachments/law/13",
+      "doc_mpath": "Upper Mattaponi Tribe Res. No. 2025-02|law|13|",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./resolutions|2025|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribe Res. No. 2025-02",
+      "path": "attachments|law|14",
+      "ptag": "section",
+      "cite": "Section 14",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/resolutions/2025/2025-02#attachments/law/14",
+      "doc_mpath": "Upper Mattaponi Tribe Res. No. 2025-02|law|14|",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./resolutions|2025|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribe Res. No. 2025-02",
+      "path": "attachments|law|15",
+      "ptag": "section",
+      "cite": "Section 15",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/resolutions/2025/2025-02#attachments/law/15",
+      "doc_mpath": "Upper Mattaponi Tribe Res. No. 2025-02|law|15|",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./resolutions|2025|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribe Res. No. 2025-02",
+      "path": "attachments|law|16",
+      "ptag": "section",
+      "cite": "Section 16",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/resolutions/2025/2025-02#attachments/law/16",
+      "doc_mpath": "Upper Mattaponi Tribe Res. No. 2025-02|law|16|",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./resolutions|2025|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribe Res. No. 2025-02",
+      "path": "attachments|law|17",
+      "ptag": "section",
+      "cite": "Section 17",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/resolutions/2025/2025-02#attachments/law/17",
+      "doc_mpath": "Upper Mattaponi Tribe Res. No. 2025-02|law|17|",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./resolutions|2025|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribe Res. No. 2025-02",
+      "path": "attachments|law|18",
+      "ptag": "section",
+      "cite": "Section 18",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/resolutions/2025/2025-02#attachments/law/18",
+      "doc_mpath": "Upper Mattaponi Tribe Res. No. 2025-02|law|18|",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./resolutions|2025|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribe Res. No. 2025-02",
+      "path": "attachments|law|19",
+      "ptag": "section",
+      "cite": "Section 19",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/resolutions/2025/2025-02#attachments/law/19",
+      "doc_mpath": "Upper Mattaponi Tribe Res. No. 2025-02|law|19|",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./resolutions|2025|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribe Res. No. 2025-02",
+      "path": "attachments|law|2",
+      "ptag": "section",
+      "cite": "Section 2",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/resolutions/2025/2025-02#attachments/law/2",
+      "doc_mpath": "Upper Mattaponi Tribe Res. No. 2025-02|law|2|",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./resolutions|2025|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribe Res. No. 2025-02",
+      "path": "attachments|law|20",
+      "ptag": "section",
+      "cite": "Section 20",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/resolutions/2025/2025-02#attachments/law/20",
+      "doc_mpath": "Upper Mattaponi Tribe Res. No. 2025-02|law|20|",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./resolutions|2025|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribe Res. No. 2025-02",
+      "path": "attachments|law|21",
+      "ptag": "section",
+      "cite": "Section 21",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/resolutions/2025/2025-02#attachments/law/21",
+      "doc_mpath": "Upper Mattaponi Tribe Res. No. 2025-02|law|21|",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./resolutions|2025|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribe Res. No. 2025-02",
+      "path": "attachments|law|22",
+      "ptag": "section",
+      "cite": "Section 22",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/resolutions/2025/2025-02#attachments/law/22",
+      "doc_mpath": "Upper Mattaponi Tribe Res. No. 2025-02|law|22|",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./resolutions|2025|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribe Res. No. 2025-02",
+      "path": "attachments|law|3",
+      "ptag": "section",
+      "cite": "Section 3",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/resolutions/2025/2025-02#attachments/law/3",
+      "doc_mpath": "Upper Mattaponi Tribe Res. No. 2025-02|law|3|",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./resolutions|2025|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribe Res. No. 2025-02",
+      "path": "attachments|law|4",
+      "ptag": "section",
+      "cite": "Section 4",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/resolutions/2025/2025-02#attachments/law/4",
+      "doc_mpath": "Upper Mattaponi Tribe Res. No. 2025-02|law|4|",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./resolutions|2025|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribe Res. No. 2025-02",
+      "path": "attachments|law|5",
+      "ptag": "section",
+      "cite": "Section 5",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/resolutions/2025/2025-02#attachments/law/5",
+      "doc_mpath": "Upper Mattaponi Tribe Res. No. 2025-02|law|5|",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./resolutions|2025|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribe Res. No. 2025-02",
+      "path": "attachments|law|6",
+      "ptag": "section",
+      "cite": "Section 6",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/resolutions/2025/2025-02#attachments/law/6",
+      "doc_mpath": "Upper Mattaponi Tribe Res. No. 2025-02|law|6|",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./resolutions|2025|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribe Res. No. 2025-02",
+      "path": "attachments|law|7",
+      "ptag": "section",
+      "cite": "Section 7",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/resolutions/2025/2025-02#attachments/law/7",
+      "doc_mpath": "Upper Mattaponi Tribe Res. No. 2025-02|law|7|",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./resolutions|2025|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribe Res. No. 2025-02",
+      "path": "attachments|law|8",
+      "ptag": "section",
+      "cite": "Section 8",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/resolutions/2025/2025-02#attachments/law/8",
+      "doc_mpath": "Upper Mattaponi Tribe Res. No. 2025-02|law|8|",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./resolutions|2025|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribe Res. No. 2025-02",
+      "path": "attachments|law|9",
+      "ptag": "section",
+      "cite": "Section 9",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/resolutions/2025/2025-02#attachments/law/9",
+      "doc_mpath": "Upper Mattaponi Tribe Res. No. 2025-02|law|9|",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./resolutions|2025|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2025-04-01",
+  "codified_date": "2025-03-06",
+  "reasons": {
+    "Upper Mattaponi Tribe Res. No. 2025-02": [
+      "created"
+    ]
+  }
+}
