@@ -1,0 +1,171 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-01/_date/2024-10-30/us/nsn/umitribe/council/charter">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-04-01</dcterms:available>
+    <dcterms:creator xml:lang="en">Upper Mattaponi Tribe</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://law.umitribe.org/us/nsn/umitribe/council/charter/us/nsn/umitribe/council/charter.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://law.umitribe.org/_publication/2025-04-01/us/nsn/umitribe/council/charter"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:title xml:lang="en">Upper Mattaponi Tribe Federal Corporate Charter for UMT Holdings</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2025-04-01/2024-10-30]: Upper Mattaponi Tribe Federal Corporate Charter for UMT Holdings</rdfs:label>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2024-10-30</oll:codifiedDate>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-10-26</oll:dateEffective>
+    <oll:docId>Upper Mattaponi Tribe Federal Corporate Charter for UMT Holdings</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Federal Corporate Charter for UMT Holdings|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://law.umitribe.org/_publication/2025-04-01/_date/2024-10-30/us/nsn/umitribe/council/charter/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://law.umitribe.org/_publication/2025-04-01"/>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:status xml:lang="en">Element effective</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/charter</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-01/_date/2024-10-30/us/nsn/umitribe/council/charter#attachments/charter">
+    <oll:cite xml:lang="en">charter</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Federal Corporate Charter for UMT Holdings|charter|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">attachment</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/charter#attachments/charter</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-01/_date/2024-10-30/us/nsn/umitribe/council/charter#attachments/charter/I">
+    <oll:cite xml:lang="en">charter, Article I</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Federal Corporate Charter for UMT Holdings|charter|I|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/charter#attachments/charter/I</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-01/_date/2024-10-30/us/nsn/umitribe/council/charter#attachments/charter/II">
+    <oll:cite xml:lang="en">charter, Article II</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Federal Corporate Charter for UMT Holdings|charter|II|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/charter#attachments/charter/II</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-01/_date/2024-10-30/us/nsn/umitribe/council/charter#attachments/charter/III">
+    <oll:cite xml:lang="en">charter, Article III</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Federal Corporate Charter for UMT Holdings|charter|III|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/charter#attachments/charter/III</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-01/_date/2024-10-30/us/nsn/umitribe/council/charter#attachments/charter/IV">
+    <oll:cite xml:lang="en">charter, Article IV</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Federal Corporate Charter for UMT Holdings|charter|IV|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/charter#attachments/charter/IV</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-01/_date/2024-10-30/us/nsn/umitribe/council/charter#attachments/charter/IX">
+    <oll:cite xml:lang="en">charter, Article IX</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Federal Corporate Charter for UMT Holdings|charter|IX|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/charter#attachments/charter/IX</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-01/_date/2024-10-30/us/nsn/umitribe/council/charter#attachments/charter/V">
+    <oll:cite xml:lang="en">charter, Article V</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Federal Corporate Charter for UMT Holdings|charter|V|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/charter#attachments/charter/V</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-01/_date/2024-10-30/us/nsn/umitribe/council/charter#attachments/charter/VI">
+    <oll:cite xml:lang="en">charter, Article VI</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Federal Corporate Charter for UMT Holdings|charter|VI|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/charter#attachments/charter/VI</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-01/_date/2024-10-30/us/nsn/umitribe/council/charter#attachments/charter/VII">
+    <oll:cite xml:lang="en">charter, Article VII</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Federal Corporate Charter for UMT Holdings|charter|VII|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/charter#attachments/charter/VII</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-01/_date/2024-10-30/us/nsn/umitribe/council/charter#attachments/charter/VIII">
+    <oll:cite xml:lang="en">charter, Article VIII</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Federal Corporate Charter for UMT Holdings|charter|VIII|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/charter#attachments/charter/VIII</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-01/_date/2024-10-30/us/nsn/umitribe/council/charter#attachments/charter/X">
+    <oll:cite xml:lang="en">charter, Article X</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Federal Corporate Charter for UMT Holdings|charter|X|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/charter#attachments/charter/X</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-01/_date/2024-10-30/us/nsn/umitribe/council/charter#attachments/charter/XI">
+    <oll:cite xml:lang="en">charter, Article XI</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Federal Corporate Charter for UMT Holdings|charter|XI|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/charter#attachments/charter/XI</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-01/_date/2024-10-30/us/nsn/umitribe/council/charter#attachments/charter/XII">
+    <oll:cite xml:lang="en">charter, Article XII</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Federal Corporate Charter for UMT Holdings|charter|XII|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/charter#attachments/charter/XII</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-01/_date/2024-10-30/us/nsn/umitribe/council/charter#attachments/charter/XIII">
+    <oll:cite xml:lang="en">charter, Article XIII</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Federal Corporate Charter for UMT Holdings|charter|XIII|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/charter#attachments/charter/XIII</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-01/_date/2024-10-30/us/nsn/umitribe/council/charter#attachments/charter/XIV">
+    <oll:cite xml:lang="en">charter, Article XIV</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Federal Corporate Charter for UMT Holdings|charter|XIV|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/charter#attachments/charter/XIV</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-01/_date/2024-10-30/us/nsn/umitribe/council/charter#attachments/charter/XV">
+    <oll:cite xml:lang="en">charter, Article XV</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Federal Corporate Charter for UMT Holdings|charter|XV|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/charter#attachments/charter/XV</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-01/_date/2024-10-30/us/nsn/umitribe/council/charter#attachments/charter/XVI%20">
+    <oll:cite xml:lang="en">charter, Article XVI </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Federal Corporate Charter for UMT Holdings|charter|XVI |</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/charter#attachments/charter/XVI </oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-01/_date/2024-10-30/us/nsn/umitribe/council/charter#attachments/charter/XVII">
+    <oll:cite xml:lang="en">charter, Article XVII</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Federal Corporate Charter for UMT Holdings|charter|XVII|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/charter#attachments/charter/XVII</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-01/_date/2024-10-30/us/nsn/umitribe/council/charter/_changes">
+    <rdf:_10 rdf:resource="https://law.umitribe.org/_publication/2025-04-01/_date/2024-10-30/us/nsn/umitribe/council/charter#attachments/charter/VII"/>
+    <rdf:_11 rdf:resource="https://law.umitribe.org/_publication/2025-04-01/_date/2024-10-30/us/nsn/umitribe/council/charter#attachments/charter/VIII"/>
+    <rdf:_12 rdf:resource="https://law.umitribe.org/_publication/2025-04-01/_date/2024-10-30/us/nsn/umitribe/council/charter#attachments/charter/X"/>
+    <rdf:_13 rdf:resource="https://law.umitribe.org/_publication/2025-04-01/_date/2024-10-30/us/nsn/umitribe/council/charter#attachments/charter/XI"/>
+    <rdf:_14 rdf:resource="https://law.umitribe.org/_publication/2025-04-01/_date/2024-10-30/us/nsn/umitribe/council/charter#attachments/charter/XII"/>
+    <rdf:_15 rdf:resource="https://law.umitribe.org/_publication/2025-04-01/_date/2024-10-30/us/nsn/umitribe/council/charter#attachments/charter/XIII"/>
+    <rdf:_16 rdf:resource="https://law.umitribe.org/_publication/2025-04-01/_date/2024-10-30/us/nsn/umitribe/council/charter#attachments/charter/XIV"/>
+    <rdf:_17 rdf:resource="https://law.umitribe.org/_publication/2025-04-01/_date/2024-10-30/us/nsn/umitribe/council/charter#attachments/charter/XV"/>
+    <rdf:_18 rdf:resource="https://law.umitribe.org/_publication/2025-04-01/_date/2024-10-30/us/nsn/umitribe/council/charter#attachments/charter/XVI%20"/>
+    <rdf:_19 rdf:resource="https://law.umitribe.org/_publication/2025-04-01/_date/2024-10-30/us/nsn/umitribe/council/charter#attachments/charter/XVII"/>
+    <rdf:_1 rdf:resource="https://law.umitribe.org/_publication/2025-04-01/_date/2024-10-30/us/nsn/umitribe/council/charter"/>
+    <rdf:_2 rdf:resource="https://law.umitribe.org/_publication/2025-04-01/_date/2024-10-30/us/nsn/umitribe/council/charter#attachments/charter"/>
+    <rdf:_3 rdf:resource="https://law.umitribe.org/_publication/2025-04-01/_date/2024-10-30/us/nsn/umitribe/council/charter#attachments/charter/I"/>
+    <rdf:_4 rdf:resource="https://law.umitribe.org/_publication/2025-04-01/_date/2024-10-30/us/nsn/umitribe/council/charter#attachments/charter/II"/>
+    <rdf:_5 rdf:resource="https://law.umitribe.org/_publication/2025-04-01/_date/2024-10-30/us/nsn/umitribe/council/charter#attachments/charter/III"/>
+    <rdf:_6 rdf:resource="https://law.umitribe.org/_publication/2025-04-01/_date/2024-10-30/us/nsn/umitribe/council/charter#attachments/charter/IV"/>
+    <rdf:_7 rdf:resource="https://law.umitribe.org/_publication/2025-04-01/_date/2024-10-30/us/nsn/umitribe/council/charter#attachments/charter/IX"/>
+    <rdf:_8 rdf:resource="https://law.umitribe.org/_publication/2025-04-01/_date/2024-10-30/us/nsn/umitribe/council/charter#attachments/charter/V"/>
+    <rdf:_9 rdf:resource="https://law.umitribe.org/_publication/2025-04-01/_date/2024-10-30/us/nsn/umitribe/council/charter#attachments/charter/VI"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>
