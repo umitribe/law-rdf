@@ -1,0 +1,502 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-04-22</dcterms:available>
+    <dcterms:creator xml:lang="en">Upper Mattaponi Tribe</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://law.umitribe.org/us/nsn/umitribe/council/resolutions/2023/2023-11/us/nsn/umitribe/council/resolutions/2023/adopted/2023-11.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://law.umitribe.org/_publication/2025-04-22/us/nsn/umitribe/council/resolutions/2023/2023-11"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:title xml:lang="en">2023-11. Departmental Organization Act</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
+    <rdfs:label xml:lang="en">[2025-04-22/2024-10-30]: Upper Mattaponi Tribe Res. No. 2023-11</rdfs:label>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2024-10-30</oll:codifiedDate>
+    <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-12-23</oll:dateAdopted>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-01-02</oll:dateEffective>
+    <oll:docId>Upper Mattaponi Tribe Res. No. 2023-11</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2023-11|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://law.umitribe.org/_publication/2025-04-22"/>
+    <oll:number>2023-11</oll:number>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:status xml:lang="en">Element effective</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2023/2023-11</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#1.1">
+    <oll:cite xml:lang="en">Section 1.1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2023-11|1.1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2023/2023-11#1.1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#1.2">
+    <oll:cite xml:lang="en">Section 1.2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2023-11|1.2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2023/2023-11#1.2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#1.3">
+    <oll:cite xml:lang="en">Section 1.3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2023-11|1.3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2023/2023-11#1.3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law">
+    <oll:cite xml:lang="en">law</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2023-11|law|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">attachment</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/I">
+    <oll:cite xml:lang="en">law, CHAPTER I</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2023-11|law|I|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/I</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/I/1-1">
+    <oll:cite xml:lang="en">Section 1-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2023-11|law|I|1-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/I/1-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/I/1-2">
+    <oll:cite xml:lang="en">Section 1-2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2023-11|law|I|1-2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/I/1-2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/I/1-3">
+    <oll:cite xml:lang="en">Section 1-3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2023-11|law|I|1-3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/I/1-3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/I/1-4">
+    <oll:cite xml:lang="en">Section 1-4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2023-11|law|I|1-4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/I/1-4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/I/1-5">
+    <oll:cite xml:lang="en">Section 1-5</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2023-11|law|I|1-5|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/I/1-5</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/I/1-7">
+    <oll:cite xml:lang="en">Section 1-7</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2023-11|law|I|1-7|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/I/1-7</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/II">
+    <oll:cite xml:lang="en">law, CHAPTER II</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2023-11|law|II|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/II</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/II/2-1">
+    <oll:cite xml:lang="en">Section 2-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2023-11|law|II|2-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/II/2-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/II/2-2">
+    <oll:cite xml:lang="en">Section 2-2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2023-11|law|II|2-2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/II/2-2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/II/2-3">
+    <oll:cite xml:lang="en">Section 2-3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2023-11|law|II|2-3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/II/2-3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/II/2-4">
+    <oll:cite xml:lang="en">Section 2-4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2023-11|law|II|2-4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/II/2-4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/II/2-5">
+    <oll:cite xml:lang="en">Section 2-5</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2023-11|law|II|2-5|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/II/2-5</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/II/2-6">
+    <oll:cite xml:lang="en">Section 2-6</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2023-11|law|II|2-6|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/II/2-6</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/II/2-7">
+    <oll:cite xml:lang="en">Section 2-7</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2023-11|law|II|2-7|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/II/2-7</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/III">
+    <oll:cite xml:lang="en">law, CHAPTER III</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2023-11|law|III|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/III</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/III/3-1">
+    <oll:cite xml:lang="en">Section 3-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2023-11|law|III|3-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/III/3-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/III/3-2">
+    <oll:cite xml:lang="en">Section 3-2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2023-11|law|III|3-2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/III/3-2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/III/3-3">
+    <oll:cite xml:lang="en">Section 3-3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2023-11|law|III|3-3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/III/3-3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/III/3-4">
+    <oll:cite xml:lang="en">Section 3-4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2023-11|law|III|3-4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/III/3-4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/IV">
+    <oll:cite xml:lang="en">law, CHAPTER IV</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2023-11|law|IV|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/IV</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/IV/4-1">
+    <oll:cite xml:lang="en">Section 4-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2023-11|law|IV|4-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/IV/4-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/IV/4-2">
+    <oll:cite xml:lang="en">Section 4-2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2023-11|law|IV|4-2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/IV/4-2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/IV/4-3">
+    <oll:cite xml:lang="en">Section 4-3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2023-11|law|IV|4-3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/IV/4-3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/IV/4-4">
+    <oll:cite xml:lang="en">Section 4-4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2023-11|law|IV|4-4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/IV/4-4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/IX">
+    <oll:cite xml:lang="en">law, CHAPTER IX</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2023-11|law|IX|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/IX</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/IX/9-1">
+    <oll:cite xml:lang="en">Section 9-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2023-11|law|IX|9-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/IX/9-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/IX/9-2">
+    <oll:cite xml:lang="en">Section 9-2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2023-11|law|IX|9-2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/IX/9-2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/IX/9-3">
+    <oll:cite xml:lang="en">Section 9-3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2023-11|law|IX|9-3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/IX/9-3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/IX/9-4">
+    <oll:cite xml:lang="en">Section 9-4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2023-11|law|IX|9-4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/IX/9-4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/V">
+    <oll:cite xml:lang="en">law, CHAPTER V</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2023-11|law|V|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/V</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/V/5-1">
+    <oll:cite xml:lang="en">Section 5-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2023-11|law|V|5-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/V/5-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/V/5-2">
+    <oll:cite xml:lang="en">Section 5-2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2023-11|law|V|5-2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/V/5-2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/V/5-3">
+    <oll:cite xml:lang="en">Section 5-3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2023-11|law|V|5-3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/V/5-3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/V/5-4">
+    <oll:cite xml:lang="en">Section 5-4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2023-11|law|V|5-4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/V/5-4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/VI">
+    <oll:cite xml:lang="en">law, CHAPTER VI</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2023-11|law|VI|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/VI</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/VI/6-1">
+    <oll:cite xml:lang="en">Section 6-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2023-11|law|VI|6-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/VI/6-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/VI/6-2">
+    <oll:cite xml:lang="en">Section 6-2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2023-11|law|VI|6-2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/VI/6-2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/VI/6-3">
+    <oll:cite xml:lang="en">Section 6-3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2023-11|law|VI|6-3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/VI/6-3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/VI/6-4">
+    <oll:cite xml:lang="en">Section 6-4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2023-11|law|VI|6-4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/VI/6-4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/VII">
+    <oll:cite xml:lang="en">law, CHAPTER VII</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2023-11|law|VII|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/VII</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/VII/7-1">
+    <oll:cite xml:lang="en">Section 7-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2023-11|law|VII|7-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/VII/7-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/VII/7-2">
+    <oll:cite xml:lang="en">Section 7-2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2023-11|law|VII|7-2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/VII/7-2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/VII/7-3">
+    <oll:cite xml:lang="en">Section 7-3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2023-11|law|VII|7-3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/VII/7-3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/VII/7-4">
+    <oll:cite xml:lang="en">Section 7-4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2023-11|law|VII|7-4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/VII/7-4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/VIII">
+    <oll:cite xml:lang="en">law, CHAPTER VIII</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2023-11|law|VIII|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/VIII</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/VIII/8-1">
+    <oll:cite xml:lang="en">Section 8-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2023-11|law|VIII|8-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/VIII/8-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/VIII/8-2">
+    <oll:cite xml:lang="en">Section 8-2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2023-11|law|VIII|8-2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/VIII/8-2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/VIII/8-3">
+    <oll:cite xml:lang="en">Section 8-3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2023-11|law|VIII|8-3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/VIII/8-3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/VIII/8-4">
+    <oll:cite xml:lang="en">Section 8-4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2023-11|law|VIII|8-4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/VIII/8-4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/X">
+    <oll:cite xml:lang="en">law, CHAPTER X</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2023-11|law|X|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/X</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/X/10-1">
+    <oll:cite xml:lang="en">Section 10-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2023-11|law|X|10-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/X/10-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/X/10-2">
+    <oll:cite xml:lang="en">Section 10-2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2023-11|law|X|10-2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/X/10-2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/X/10-3">
+    <oll:cite xml:lang="en">Section 10-3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2023-11|law|X|10-3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/X/10-3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/X/10-4">
+    <oll:cite xml:lang="en">Section 10-4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2023-11|law|X|10-4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/X/10-4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11/_changes">
+    <rdf:_10 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/I/1-4"/>
+    <rdf:_11 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/I/1-5"/>
+    <rdf:_12 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/I/1-7"/>
+    <rdf:_13 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/II"/>
+    <rdf:_14 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/II/2-1"/>
+    <rdf:_15 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/II/2-2"/>
+    <rdf:_16 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/II/2-3"/>
+    <rdf:_17 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/II/2-4"/>
+    <rdf:_18 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/II/2-5"/>
+    <rdf:_19 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/II/2-6"/>
+    <rdf:_1 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11"/>
+    <rdf:_20 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/II/2-7"/>
+    <rdf:_21 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/III"/>
+    <rdf:_22 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/III/3-1"/>
+    <rdf:_23 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/III/3-2"/>
+    <rdf:_24 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/III/3-3"/>
+    <rdf:_25 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/III/3-4"/>
+    <rdf:_26 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/IV"/>
+    <rdf:_27 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/IV/4-1"/>
+    <rdf:_28 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/IV/4-2"/>
+    <rdf:_29 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/IV/4-3"/>
+    <rdf:_2 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#1.1"/>
+    <rdf:_30 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/IV/4-4"/>
+    <rdf:_31 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/IX"/>
+    <rdf:_32 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/IX/9-1"/>
+    <rdf:_33 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/IX/9-2"/>
+    <rdf:_34 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/IX/9-3"/>
+    <rdf:_35 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/IX/9-4"/>
+    <rdf:_36 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/V"/>
+    <rdf:_37 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/V/5-1"/>
+    <rdf:_38 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/V/5-2"/>
+    <rdf:_39 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/V/5-3"/>
+    <rdf:_3 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#1.2"/>
+    <rdf:_40 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/V/5-4"/>
+    <rdf:_41 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/VI"/>
+    <rdf:_42 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/VI/6-1"/>
+    <rdf:_43 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/VI/6-2"/>
+    <rdf:_44 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/VI/6-3"/>
+    <rdf:_45 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/VI/6-4"/>
+    <rdf:_46 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/VII"/>
+    <rdf:_47 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/VII/7-1"/>
+    <rdf:_48 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/VII/7-2"/>
+    <rdf:_49 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/VII/7-3"/>
+    <rdf:_4 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#1.3"/>
+    <rdf:_50 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/VII/7-4"/>
+    <rdf:_51 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/VIII"/>
+    <rdf:_52 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/VIII/8-1"/>
+    <rdf:_53 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/VIII/8-2"/>
+    <rdf:_54 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/VIII/8-3"/>
+    <rdf:_55 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/VIII/8-4"/>
+    <rdf:_56 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/X"/>
+    <rdf:_57 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/X/10-1"/>
+    <rdf:_58 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/X/10-2"/>
+    <rdf:_59 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/X/10-3"/>
+    <rdf:_5 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law"/>
+    <rdf:_60 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/X/10-4"/>
+    <rdf:_6 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/I"/>
+    <rdf:_7 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/I/1-1"/>
+    <rdf:_8 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/I/1-2"/>
+    <rdf:_9 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2023/2023-11#attachments/law/I/1-3"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>
