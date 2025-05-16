@@ -1,0 +1,86 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2025-04-26/us/nsn/umitribe/council/resolutions/2025/2025-06">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-04-22</dcterms:available>
+    <dcterms:creator xml:lang="en">Upper Mattaponi Tribe</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://law.umitribe.org/us/nsn/umitribe/council/resolutions/2025/2025-06/us/nsn/umitribe/council/resolutions/2025/adopted/2025-06.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://law.umitribe.org/_publication/2025-04-22/us/nsn/umitribe/council/resolutions/2025/2025-06"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:title xml:lang="en">2025-06. Tribal Investment Law of the Upper Mattaponi Tribe</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
+    <rdfs:label xml:lang="en">[2025-04-22/2025-04-26]: Upper Mattaponi Tribe Res. No. 2025-06</rdfs:label>
+    <oll:buildReason xml:lang="en">created</oll:buildReason>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2025-04-26</oll:codifiedDate>
+    <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-04-26</oll:dateAdopted>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-04-28</oll:dateEffective>
+    <oll:docId>Upper Mattaponi Tribe Res. No. 2025-06</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2025-06|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2025-04-26/us/nsn/umitribe/council/resolutions/2025/2025-06/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://law.umitribe.org/_publication/2025-04-22"/>
+    <oll:number>2025-06</oll:number>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2025/2025-06</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2025-04-26/us/nsn/umitribe/council/resolutions/2025/2025-06#attachments/law">
+    <oll:cite xml:lang="en">law</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2025-06|law|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">attachment</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2025/2025-06#attachments/law</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2025-04-26/us/nsn/umitribe/council/resolutions/2025/2025-06#attachments/law/200">
+    <oll:cite xml:lang="en">Section 200</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2025-06|law|200|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2025/2025-06#attachments/law/200</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2025-04-26/us/nsn/umitribe/council/resolutions/2025/2025-06#attachments/law/201">
+    <oll:cite xml:lang="en">Section 201</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2025-06|law|201|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2025/2025-06#attachments/law/201</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2025-04-26/us/nsn/umitribe/council/resolutions/2025/2025-06#attachments/law/202">
+    <oll:cite xml:lang="en">Section 202</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2025-06|law|202|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2025/2025-06#attachments/law/202</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2025-04-26/us/nsn/umitribe/council/resolutions/2025/2025-06#attachments/law/203">
+    <oll:cite xml:lang="en">Section 203</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2025-06|law|203|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2025/2025-06#attachments/law/203</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2025-04-26/us/nsn/umitribe/council/resolutions/2025/2025-06#attachments/law/204">
+    <oll:cite xml:lang="en">Section 204</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2025-06|law|204|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2025/2025-06#attachments/law/204</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2025-04-26/us/nsn/umitribe/council/resolutions/2025/2025-06#attachments/law/205">
+    <oll:cite xml:lang="en">Section 205</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2025-06|law|205|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2025/2025-06#attachments/law/205</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-04-22/_date/2025-04-26/us/nsn/umitribe/council/resolutions/2025/2025-06/_changes">
+    <rdf:_1 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2025-04-26/us/nsn/umitribe/council/resolutions/2025/2025-06"/>
+    <rdf:_2 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2025-04-26/us/nsn/umitribe/council/resolutions/2025/2025-06#attachments/law"/>
+    <rdf:_3 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2025-04-26/us/nsn/umitribe/council/resolutions/2025/2025-06#attachments/law/200"/>
+    <rdf:_4 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2025-04-26/us/nsn/umitribe/council/resolutions/2025/2025-06#attachments/law/201"/>
+    <rdf:_5 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2025-04-26/us/nsn/umitribe/council/resolutions/2025/2025-06#attachments/law/202"/>
+    <rdf:_6 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2025-04-26/us/nsn/umitribe/council/resolutions/2025/2025-06#attachments/law/203"/>
+    <rdf:_7 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2025-04-26/us/nsn/umitribe/council/resolutions/2025/2025-06#attachments/law/204"/>
+    <rdf:_8 rdf:resource="https://law.umitribe.org/_publication/2025-04-22/_date/2025-04-26/us/nsn/umitribe/council/resolutions/2025/2025-06#attachments/law/205"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>
