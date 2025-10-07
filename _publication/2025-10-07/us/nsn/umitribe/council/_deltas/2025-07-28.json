@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "doc": "Upper Mattaponi Tribe Bill No. 2025-01",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/nsn/umitribe/council/bills/2025/2025-01",
+      "doc_mpath": "Upper Mattaponi Tribe Bill No. 2025-01|",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./bills|2025|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribal Code of Law",
+      "path": "4|\u00a72103",
+      "ptag": "section",
+      "cite": " Title 4, 2103",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/umitribe/council/code/\u00a74-2103",
+      "doc_mpath": "Upper Mattaponi Tribal Code of Law|4|21|2103|",
+      "lib_mpath": "umitribe/law-rdf|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2025-10-07",
+  "codified_date": "2025-07-28",
+  "reasons": {
+    "Upper Mattaponi Tribe Bill No. 2025-01": [
+      "effective"
+    ]
+  }
+}
