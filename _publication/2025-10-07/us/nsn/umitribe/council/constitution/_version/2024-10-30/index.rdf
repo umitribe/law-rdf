@@ -1,0 +1,600 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-10-07</dcterms:available>
+    <dcterms:creator xml:lang="en">Upper Mattaponi Tribe</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://law.umitribe.org/us/nsn/umitribe/council/constitution/us/nsn/umitribe/council/constitution.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://law.umitribe.org/_publication/2025-10-07/us/nsn/umitribe/council/constitution"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:tableOfContents>
+
+Article I — Sovereignty
+Article II — Bill of Rights
+Article III — Citizenship
+Article IV — Territory
+Article V — Jurisdiction
+Article VI — Separation of Powers
+Article VII — Legislative Branch of Government
+Article VIII — Executive Branch of Government
+Article IX — Judicial Branch of Government
+Article X — Elections
+Article XI — Vacancies
+Article XII — Recall and Removal from Office
+Article XIII — Sovereign Immunity
+Article XIV — Initiative and Referendum
+Article XV — Amendments
+Article XVI — Business and Economic Development
+Article XVII — Effective Date
+</dcterms:tableOfContents>
+    <dcterms:title xml:lang="en">Constitution of the Upper Mattaponi Tribe</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Constitution"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2025-10-07/2024-10-30]: Constitution of the Upper Mattaponi Tribe</rdfs:label>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2024-10-30</oll:codifiedDate>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-07-22</oll:dateEffective>
+    <oll:docId>Constitution of the Upper Mattaponi Tribe</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://law.umitribe.org/_publication/2025-10-07"/>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:status xml:lang="en">Element effective</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#i">
+    <oll:cite xml:lang="en"> Article I</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|i|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#i</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#ii">
+    <oll:cite xml:lang="en"> Article II</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|ii|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#ii</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#ii/1">
+    <oll:cite xml:lang="en"> Article II, 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|ii|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#ii/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#ii/2">
+    <oll:cite xml:lang="en"> Article II, 2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|ii|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#ii/2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#iii">
+    <oll:cite xml:lang="en"> Article III</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|iii|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#iii</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#iii/1">
+    <oll:cite xml:lang="en"> Article III, 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|iii|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#iii/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#iii/2">
+    <oll:cite xml:lang="en"> Article III, 2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|iii|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#iii/2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#iii/3">
+    <oll:cite xml:lang="en"> Article III, 3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|iii|3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#iii/3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#iii/4">
+    <oll:cite xml:lang="en"> Article III, 4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|iii|4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#iii/4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#iv">
+    <oll:cite xml:lang="en"> Article IV</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|iv|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#iv</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#ix">
+    <oll:cite xml:lang="en"> Article IX</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|ix|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#ix</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#ix/1">
+    <oll:cite xml:lang="en"> Article IX, 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|ix|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#ix/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#ix/2">
+    <oll:cite xml:lang="en"> Article IX, 2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|ix|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#ix/2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#ix/3">
+    <oll:cite xml:lang="en"> Article IX, 3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|ix|3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#ix/3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#ix/4">
+    <oll:cite xml:lang="en"> Article IX, 4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|ix|4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#ix/4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#ix/5">
+    <oll:cite xml:lang="en"> Article IX, 5</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|ix|5|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#ix/5</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#ix/6">
+    <oll:cite xml:lang="en"> Article IX, 6</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|ix|6|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#ix/6</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#ix/7">
+    <oll:cite xml:lang="en"> Article IX, 7</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|ix|7|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#ix/7</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#preamble">
+    <oll:cite xml:lang="en"> </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|preamble|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#preamble</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#v">
+    <oll:cite xml:lang="en"> Article V</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|v|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#v</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#vi">
+    <oll:cite xml:lang="en"> Article VI</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|vi|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#vi</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#vii">
+    <oll:cite xml:lang="en"> Article VII</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|vii|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#vii</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#vii/1">
+    <oll:cite xml:lang="en"> Article VII, 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|vii|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#vii/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#vii/2">
+    <oll:cite xml:lang="en"> Article VII, 2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|vii|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#vii/2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#vii/3">
+    <oll:cite xml:lang="en"> Article VII, 3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|vii|3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#vii/3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#vii/4">
+    <oll:cite xml:lang="en"> Article VII, 4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|vii|4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#vii/4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#vii/5">
+    <oll:cite xml:lang="en"> Article VII, 5</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|vii|5|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#vii/5</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#vii/6">
+    <oll:cite xml:lang="en"> Article VII, 6</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|vii|6|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#vii/6</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#vii/7">
+    <oll:cite xml:lang="en"> Article VII, 7</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|vii|7|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#vii/7</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#viii">
+    <oll:cite xml:lang="en"> Article VIII</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|viii|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#viii</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#viii/1">
+    <oll:cite xml:lang="en"> Article VIII, 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|viii|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#viii/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#viii/2">
+    <oll:cite xml:lang="en"> Article VIII, 2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|viii|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#viii/2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#viii/3">
+    <oll:cite xml:lang="en"> Article VIII, 3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|viii|3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#viii/3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#viii/4">
+    <oll:cite xml:lang="en"> Article VIII, 4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|viii|4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#viii/4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#viii/5">
+    <oll:cite xml:lang="en"> Article VIII, 5</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|viii|5|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#viii/5</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#viii/6">
+    <oll:cite xml:lang="en"> Article VIII, 6</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|viii|6|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#viii/6</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#viii/7">
+    <oll:cite xml:lang="en"> Article VIII, 7</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|viii|7|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#viii/7</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#x">
+    <oll:cite xml:lang="en"> Article X</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|x|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#x</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#x/1">
+    <oll:cite xml:lang="en"> Article X, 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|x|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#x/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#x/2">
+    <oll:cite xml:lang="en"> Article X, 2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|x|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#x/2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#x/3">
+    <oll:cite xml:lang="en"> Article X, 3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|x|3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#x/3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#x/4">
+    <oll:cite xml:lang="en"> Article X, 4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|x|4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#x/4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#x/5">
+    <oll:cite xml:lang="en"> Article X, 5</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|x|5|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#x/5</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#x/6">
+    <oll:cite xml:lang="en"> Article X, 6</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|x|6|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#x/6</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#xi">
+    <oll:cite xml:lang="en"> Article XI</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|xi|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#xi</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#xi/1">
+    <oll:cite xml:lang="en"> Article XI, 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|xi|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#xi/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#xi/2">
+    <oll:cite xml:lang="en"> Article XI, 2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|xi|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#xi/2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#xi/3">
+    <oll:cite xml:lang="en"> Article XI, 3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|xi|3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#xi/3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#xi/4">
+    <oll:cite xml:lang="en"> Article XI, 4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|xi|4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#xi/4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#xi/5">
+    <oll:cite xml:lang="en"> Article XI, 5</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|xi|5|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#xi/5</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#xii">
+    <oll:cite xml:lang="en"> Article XII</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|xii|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#xii</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#xii/1">
+    <oll:cite xml:lang="en"> Article XII, 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|xii|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#xii/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#xii/2">
+    <oll:cite xml:lang="en"> Article XII, 2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|xii|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#xii/2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#xii/3">
+    <oll:cite xml:lang="en"> Article XII, 3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|xii|3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#xii/3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#xiii">
+    <oll:cite xml:lang="en"> Article XIII</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|xiii|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#xiii</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#xiii/1">
+    <oll:cite xml:lang="en"> Article XIII, 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|xiii|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#xiii/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#xiii/2">
+    <oll:cite xml:lang="en"> Article XIII, 2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|xiii|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#xiii/2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#xiii/3">
+    <oll:cite xml:lang="en"> Article XIII, 3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|xiii|3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#xiii/3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#xiv">
+    <oll:cite xml:lang="en"> Article XIV</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|xiv|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#xiv</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#xiv/1">
+    <oll:cite xml:lang="en"> Article XIV, 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|xiv|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#xiv/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#xiv/2">
+    <oll:cite xml:lang="en"> Article XIV, 2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|xiv|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#xiv/2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#xiv/3">
+    <oll:cite xml:lang="en"> Article XIV, 3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|xiv|3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#xiv/3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#xiv/4">
+    <oll:cite xml:lang="en"> Article XIV, 4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|xiv|4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#xiv/4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#xv">
+    <oll:cite xml:lang="en"> Article XV</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|xv|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#xv</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#xv/1">
+    <oll:cite xml:lang="en"> Article XV, 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|xv|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#xv/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#xv/2">
+    <oll:cite xml:lang="en"> Article XV, 2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|xv|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#xv/2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#xvi">
+    <oll:cite xml:lang="en"> Article XVI</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|xvi|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#xvi</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#xvi/1">
+    <oll:cite xml:lang="en"> Article XVI, 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|xvi|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#xvi/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#xvii">
+    <oll:cite xml:lang="en"> Article XVII</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Constitution of the Upper Mattaponi Tribe|xvii|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/constitution#xvii</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution/_changes">
+    <rdf:_10 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#iii/4"/>
+    <rdf:_11 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#iv"/>
+    <rdf:_12 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#ix"/>
+    <rdf:_13 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#ix/1"/>
+    <rdf:_14 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#ix/2"/>
+    <rdf:_15 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#ix/3"/>
+    <rdf:_16 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#ix/4"/>
+    <rdf:_17 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#ix/5"/>
+    <rdf:_18 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#ix/6"/>
+    <rdf:_19 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#ix/7"/>
+    <rdf:_1 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution"/>
+    <rdf:_20 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#preamble"/>
+    <rdf:_21 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#v"/>
+    <rdf:_22 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#vi"/>
+    <rdf:_23 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#vii"/>
+    <rdf:_24 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#vii/1"/>
+    <rdf:_25 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#vii/2"/>
+    <rdf:_26 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#vii/3"/>
+    <rdf:_27 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#vii/4"/>
+    <rdf:_28 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#vii/5"/>
+    <rdf:_29 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#vii/6"/>
+    <rdf:_2 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#i"/>
+    <rdf:_30 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#vii/7"/>
+    <rdf:_31 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#viii"/>
+    <rdf:_32 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#viii/1"/>
+    <rdf:_33 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#viii/2"/>
+    <rdf:_34 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#viii/3"/>
+    <rdf:_35 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#viii/4"/>
+    <rdf:_36 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#viii/5"/>
+    <rdf:_37 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#viii/6"/>
+    <rdf:_38 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#viii/7"/>
+    <rdf:_39 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#x"/>
+    <rdf:_3 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#ii"/>
+    <rdf:_40 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#x/1"/>
+    <rdf:_41 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#x/2"/>
+    <rdf:_42 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#x/3"/>
+    <rdf:_43 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#x/4"/>
+    <rdf:_44 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#x/5"/>
+    <rdf:_45 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#x/6"/>
+    <rdf:_46 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#xi"/>
+    <rdf:_47 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#xi/1"/>
+    <rdf:_48 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#xi/2"/>
+    <rdf:_49 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#xi/3"/>
+    <rdf:_4 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#ii/1"/>
+    <rdf:_50 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#xi/4"/>
+    <rdf:_51 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#xi/5"/>
+    <rdf:_52 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#xii"/>
+    <rdf:_53 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#xii/1"/>
+    <rdf:_54 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#xii/2"/>
+    <rdf:_55 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#xii/3"/>
+    <rdf:_56 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#xiii"/>
+    <rdf:_57 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#xiii/1"/>
+    <rdf:_58 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#xiii/2"/>
+    <rdf:_59 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#xiii/3"/>
+    <rdf:_5 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#ii/2"/>
+    <rdf:_60 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#xiv"/>
+    <rdf:_61 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#xiv/1"/>
+    <rdf:_62 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#xiv/2"/>
+    <rdf:_63 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#xiv/3"/>
+    <rdf:_64 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#xiv/4"/>
+    <rdf:_65 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#xv"/>
+    <rdf:_66 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#xv/1"/>
+    <rdf:_67 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#xv/2"/>
+    <rdf:_68 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#xvi"/>
+    <rdf:_69 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#xvi/1"/>
+    <rdf:_6 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#iii"/>
+    <rdf:_70 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#xvii"/>
+    <rdf:_7 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#iii/1"/>
+    <rdf:_8 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#iii/2"/>
+    <rdf:_9 rdf:resource="https://law.umitribe.org/_publication/2025-10-07/_date/2024-10-30/us/nsn/umitribe/council/constitution#iii/3"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>
