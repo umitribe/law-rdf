@@ -1,0 +1,30 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-11-18/_date/2025-02-22/us/nsn/umitribe/council/resolutions/2025/2025-01">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-11-18</dcterms:available>
+    <dcterms:creator xml:lang="en">Upper Mattaponi Tribe</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://law.umitribe.org/us/nsn/umitribe/council/resolutions/2025/2025-01/us/nsn/umitribe/council/resolutions/2025/adopted/2025-01.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://law.umitribe.org/_publication/2025-11-18/us/nsn/umitribe/council/resolutions/2025/2025-01"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:title xml:lang="en">2025-01. Support for Tribal Heritage Grant Application</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
+    <rdfs:label xml:lang="en">[2025-11-18/2025-02-22]: Upper Mattaponi Tribe Res. No. 2025-01</rdfs:label>
+    <oll:buildReason xml:lang="en">created</oll:buildReason>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2025-02-22</oll:codifiedDate>
+    <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-02-22</oll:dateAdopted>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-02-24</oll:dateEffective>
+    <oll:docId>Upper Mattaponi Tribe Res. No. 2025-01</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">Upper Mattaponi Tribe Res. No. 2025-01|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://law.umitribe.org/_publication/2025-11-18/_date/2025-02-22/us/nsn/umitribe/council/resolutions/2025/2025-01/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://law.umitribe.org/_publication/2025-11-18"/>
+    <oll:number>2025-01</oll:number>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/umitribe/council/resolutions/2025/2025-01</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-11-18/_date/2025-02-22/us/nsn/umitribe/council/resolutions/2025/2025-01/_changes">
+    <rdf:_1 rdf:resource="https://law.umitribe.org/_publication/2025-11-18/_date/2025-02-22/us/nsn/umitribe/council/resolutions/2025/2025-01"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>
