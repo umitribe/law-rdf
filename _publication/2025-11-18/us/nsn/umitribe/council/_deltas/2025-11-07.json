@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "doc": "Upper Mattaponi Tribe Res. No. 2025-14",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/nsn/umitribe/council/resolutions/2025/2025-14",
+      "doc_mpath": "Upper Mattaponi Tribe Res. No. 2025-14|",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./resolutions|2025|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2025-11-18",
+  "codified_date": "2025-11-07",
+  "reasons": {
+    "Upper Mattaponi Tribe Res. No. 2025-14": [
+      "effective"
+    ]
+  }
+}
