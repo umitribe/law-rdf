@@ -1,0 +1,8 @@
+<rdf:RDF xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-11-18/_version/2025-09-11">
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#PublicationVersion"/>
+    <oll:buildTrigger rdf:resource="https://law.umitribe.org/_publication/2025-11-18/_date/2025-09-11/us/nsn/umitribe/council/resolutions/2025/2025-10"/>
+    <oll:codifiedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-09-11</oll:codifiedDate>
+    <oll:hasPublication rdf:resource="https://law.umitribe.org/_publication/2025-11-18"/>
+  </rdf:Description>
+</rdf:RDF>
