@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "statuses": [
+        "Element changed"
+      ],
+      "name": "2025",
+      "url": "/Resolutions/Bills/Orders/./budget-resolutions/2025",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./budget-resolutions|2025|",
+      "docs_changes": {
+        "Upper Mattaponi Tribe Budget Res. No. 2025-02": "Element added"
+      },
+      "colls_changes": {},
+      "ptag": "collection"
+    },
+    {
+      "statuses": [
+        "Element changed"
+      ],
+      "name": "2025",
+      "url": "/Resolutions/Bills/Orders/./resolutions/2025",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./resolutions|2025|",
+      "docs_changes": {
+        "Upper Mattaponi Tribe Res. No. 2025-11": "Element added",
+        "Upper Mattaponi Tribe Res. No. 2025-12": "Element added"
+      },
+      "colls_changes": {},
+      "ptag": "collection"
+    },
+    {
+      "doc": "Upper Mattaponi Tribe Budget Res. No. 2025-02",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/budget-resolutions/2025/2025-02",
+      "doc_mpath": "Upper Mattaponi Tribe Budget Res. No. 2025-02|",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./budget-resolutions|2025|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribe Budget Res. No. 2025-02",
+      "path": "\u00a71",
+      "ptag": "section",
+      "cite": "Section 1",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/budget-resolutions/2025/2025-02#1",
+      "doc_mpath": "Upper Mattaponi Tribe Budget Res. No. 2025-02|1|",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./budget-resolutions|2025|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribe Budget Res. No. 2025-02",
+      "path": "\u00a72",
+      "ptag": "section",
+      "cite": "Section 2",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/budget-resolutions/2025/2025-02#2",
+      "doc_mpath": "Upper Mattaponi Tribe Budget Res. No. 2025-02|2|",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./budget-resolutions|2025|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribe Budget Res. No. 2025-02",
+      "path": "\u00a73",
+      "ptag": "section",
+      "cite": "Section 3",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/budget-resolutions/2025/2025-02#3",
+      "doc_mpath": "Upper Mattaponi Tribe Budget Res. No. 2025-02|3|",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./budget-resolutions|2025|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribe Budget Res. No. 2025-02",
+      "path": "\u00a74",
+      "ptag": "section",
+      "cite": "Section 4",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/budget-resolutions/2025/2025-02#4",
+      "doc_mpath": "Upper Mattaponi Tribe Budget Res. No. 2025-02|4|",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./budget-resolutions|2025|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribe Budget Res. No. 2025-02",
+      "path": "\u00a75",
+      "ptag": "section",
+      "cite": "Section 5",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/budget-resolutions/2025/2025-02#5",
+      "doc_mpath": "Upper Mattaponi Tribe Budget Res. No. 2025-02|5|",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./budget-resolutions|2025|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribe Res. No. 2025-11",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/resolutions/2025/2025-11",
+      "doc_mpath": "Upper Mattaponi Tribe Res. No. 2025-11|",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./resolutions|2025|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribe Res. No. 2025-12",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/resolutions/2025/2025-12",
+      "doc_mpath": "Upper Mattaponi Tribe Res. No. 2025-12|",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./resolutions|2025|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2025-11-18",
+  "codified_date": "2025-09-07",
+  "reasons": {
+    "Upper Mattaponi Tribe Budget Res. No. 2025-02": [
+      "created"
+    ],
+    "Upper Mattaponi Tribe Res. No. 2025-11": [
+      "created"
+    ],
+    "Upper Mattaponi Tribe Res. No. 2025-12": [
+      "created"
+    ]
+  }
+}
