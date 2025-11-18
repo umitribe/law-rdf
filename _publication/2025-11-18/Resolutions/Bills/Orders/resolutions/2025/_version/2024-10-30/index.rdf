@@ -1,0 +1,30 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-11-18/_date/2024-10-30/Resolutions/Bills/Orders/resolutions/2025">
+    <dcterms:isVersionOf rdf:resource="https://law.umitribe.org/_publication/2025-11-18/Resolutions/Bills/Orders/resolutions/2025"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#CollectionVersion"/>
+    <rdfs:label xml:lang="en">2025 Resolutions</rdfs:label>
+    <oll:codifiedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-10-30</oll:codifiedDate>
+    <oll:hasChanges rdf:resource="https://law.umitribe.org/_publication/2025-11-18/_date/2024-10-30/Resolutions/Bills/Orders/resolutions/2025/_changes"/>
+    <oll:hasElements rdf:resource="https://law.umitribe.org/_publication/2025-11-18/_date/2024-10-30/Resolutions/Bills/Orders/resolutions/2025/_elements"/>
+    <oll:isPartOfPublication rdf:resource="https://law.umitribe.org/_publication/2025-11-18"/>
+    <oll:libraryMaterializedPath xml:lang="en">umitribe/law-rdf|Resolutions/Bills/Orders|./resolutions|2025|</oll:libraryMaterializedPath>
+    <oll:name xml:lang="en">2025</oll:name>
+    <oll:ptag xml:lang="en">collection</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/Resolutions/Bills/Orders/./resolutions/2025</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-11-18/_date/2024-10-30/Resolutions/Bills/Orders/resolutions/2025/_changes">
+    <rdf:_1 rdf:resource="https://law.umitribe.org/_publication/2025-11-18/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2025/2025-03"/>
+    <rdf:_2 rdf:resource="https://law.umitribe.org/_publication/2025-11-18/_date/2024-10-30/us/nsn/umitribe/council/resolutions/2025/2025-13"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2025-11-18/_date/2024-10-30/Resolutions/Bills/Orders/resolutions/2025/_elements">
+    <rdf:_1 xml:lang="en">2025 Resolutions</rdf:_1>
+    <rdf:_2 xml:lang="en">Adopted</rdf:_2>
+    <rdf:_3 xml:lang="en">Vetoed</rdf:_3>
+    <rdf:_4 rdf:resource="https://law.umitribe.org/us/nsn/umitribe/council/resolutions/2025/2025-03"/>
+    <rdf:_5 xml:lang="en">Withdrawn</rdf:_5>
+    <rdf:_6 rdf:resource="https://law.umitribe.org/us/nsn/umitribe/council/resolutions/2025/2025-13"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+  </rdf:Description>
+</rdf:RDF>
