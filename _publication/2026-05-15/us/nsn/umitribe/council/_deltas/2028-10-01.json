@@ -1,0 +1,89 @@
+{
+  "data": [
+    {
+      "doc": "Upper Mattaponi Tribal Code of Law",
+      "path": "42|5",
+      "ptag": "container",
+      "cite": " Title 42, Chapter 5",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/umitribe/council/code/42-5",
+      "doc_mpath": "Upper Mattaponi Tribal Code of Law|42|5|",
+      "lib_mpath": "umitribe/law-rdf|",
+      "reason": "Expired"
+    },
+    {
+      "doc": "Upper Mattaponi Tribal Code of Law",
+      "path": "42|\u00a7501",
+      "ptag": "section",
+      "cite": " Title 42, 501",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/umitribe/council/code/\u00a742-501",
+      "doc_mpath": "Upper Mattaponi Tribal Code of Law|42|5|501|",
+      "lib_mpath": "umitribe/law-rdf|",
+      "reason": "Expired"
+    },
+    {
+      "doc": "Upper Mattaponi Tribal Code of Law",
+      "path": "42|\u00a7502",
+      "ptag": "section",
+      "cite": " Title 42, 502",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/umitribe/council/code/\u00a742-502",
+      "doc_mpath": "Upper Mattaponi Tribal Code of Law|42|5|502|",
+      "lib_mpath": "umitribe/law-rdf|",
+      "reason": "Expired"
+    },
+    {
+      "doc": "Upper Mattaponi Tribal Code of Law",
+      "path": "42|\u00a7503",
+      "ptag": "section",
+      "cite": " Title 42, 503",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/umitribe/council/code/\u00a742-503",
+      "doc_mpath": "Upper Mattaponi Tribal Code of Law|42|5|503|",
+      "lib_mpath": "umitribe/law-rdf|",
+      "reason": "Expired"
+    },
+    {
+      "doc": "Upper Mattaponi Tribal Code of Law",
+      "path": "42|\u00a7504",
+      "ptag": "section",
+      "cite": " Title 42, 504",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/umitribe/council/code/\u00a742-504",
+      "doc_mpath": "Upper Mattaponi Tribal Code of Law|42|5|504|",
+      "lib_mpath": "umitribe/law-rdf|",
+      "reason": "Expired"
+    },
+    {
+      "doc": "Upper Mattaponi Tribal Code of Law",
+      "path": "42|\u00a7505",
+      "ptag": "section",
+      "cite": " Title 42, 505",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/umitribe/council/code/\u00a742-505",
+      "doc_mpath": "Upper Mattaponi Tribal Code of Law|42|5|505|",
+      "lib_mpath": "umitribe/law-rdf|",
+      "reason": "Expired"
+    }
+  ],
+  "publication_name": "publication/2026-05-15",
+  "codified_date": "2028-10-01",
+  "reasons": {
+    "Upper Mattaponi Tribe Res. No. 2026-13": [
+      "expired"
+    ]
+  }
+}
