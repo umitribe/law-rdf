@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "doc": "Upper Mattaponi Tribe Res. No. 2026-06",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/nsn/umitribe/council/resolutions/2026/2026-06",
+      "doc_mpath": "Upper Mattaponi Tribe Res. No. 2026-06|",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./resolutions|2026|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribe Res. No. 2026-08",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/nsn/umitribe/council/resolutions/2026/2026-08",
+      "doc_mpath": "Upper Mattaponi Tribe Res. No. 2026-08|",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./resolutions|2026|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2026-05-15",
+  "codified_date": "2026-03-13",
+  "reasons": {
+    "Upper Mattaponi Tribe Res. No. 2026-06": [
+      "effective"
+    ],
+    "Upper Mattaponi Tribe Res. No. 2026-08": [
+      "effective"
+    ]
+  }
+}
