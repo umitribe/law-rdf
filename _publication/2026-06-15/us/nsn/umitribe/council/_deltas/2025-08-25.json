@@ -1,0 +1,222 @@
+{
+  "data": [
+    {
+      "doc": "Upper Mattaponi Tribe Bill No. 2025-02",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/nsn/umitribe/council/bills/2025/2025-02",
+      "doc_mpath": "Upper Mattaponi Tribe Bill No. 2025-02|",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./bills|2025|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribe Bill No. 2025-03",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/nsn/umitribe/council/bills/2025/2025-03",
+      "doc_mpath": "Upper Mattaponi Tribe Bill No. 2025-03|",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./bills|2025|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribal Code of Law",
+      "path": "4|14",
+      "ptag": "container",
+      "cite": " Title 4, Chapter 14",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/code/4-14",
+      "doc_mpath": "Upper Mattaponi Tribal Code of Law|4|14|",
+      "lib_mpath": "umitribe/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribal Code of Law",
+      "path": "4|\u00a71401",
+      "ptag": "section",
+      "cite": " Title 4, 1401",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/code/\u00a74-1401",
+      "doc_mpath": "Upper Mattaponi Tribal Code of Law|4|14|1401|",
+      "lib_mpath": "umitribe/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribal Code of Law",
+      "path": "4|\u00a71402",
+      "ptag": "section",
+      "cite": " Title 4, 1402",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/code/\u00a74-1402",
+      "doc_mpath": "Upper Mattaponi Tribal Code of Law|4|14|1402|",
+      "lib_mpath": "umitribe/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribal Code of Law",
+      "path": "4|\u00a71403",
+      "ptag": "section",
+      "cite": " Title 4, 1403",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/code/\u00a74-1403",
+      "doc_mpath": "Upper Mattaponi Tribal Code of Law|4|14|1403|",
+      "lib_mpath": "umitribe/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribal Code of Law",
+      "path": "4|\u00a71404",
+      "ptag": "section",
+      "cite": " Title 4, 1404",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/code/\u00a74-1404",
+      "doc_mpath": "Upper Mattaponi Tribal Code of Law|4|14|1404|",
+      "lib_mpath": "umitribe/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribal Code of Law",
+      "path": "4|\u00a71405",
+      "ptag": "section",
+      "cite": " Title 4, 1405",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/code/\u00a74-1405",
+      "doc_mpath": "Upper Mattaponi Tribal Code of Law|4|14|1405|",
+      "lib_mpath": "umitribe/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribal Code of Law",
+      "path": "4|\u00a71406",
+      "ptag": "section",
+      "cite": " Title 4, 1406",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/code/\u00a74-1406",
+      "doc_mpath": "Upper Mattaponi Tribal Code of Law|4|14|1406|",
+      "lib_mpath": "umitribe/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribal Code of Law",
+      "path": "4|\u00a71407",
+      "ptag": "section",
+      "cite": " Title 4, 1407",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/code/\u00a74-1407",
+      "doc_mpath": "Upper Mattaponi Tribal Code of Law|4|14|1407|",
+      "lib_mpath": "umitribe/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribal Code of Law",
+      "path": "4|\u00a71408",
+      "ptag": "section",
+      "cite": " Title 4, 1408",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/code/\u00a74-1408",
+      "doc_mpath": "Upper Mattaponi Tribal Code of Law|4|14|1408|",
+      "lib_mpath": "umitribe/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribal Code of Law",
+      "path": "4|\u00a71409",
+      "ptag": "section",
+      "cite": " Title 4, 1409",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/code/\u00a74-1409",
+      "doc_mpath": "Upper Mattaponi Tribal Code of Law|4|14|1409|",
+      "lib_mpath": "umitribe/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribal Code of Law",
+      "path": "4|\u00a71410",
+      "ptag": "section",
+      "cite": " Title 4, 1410",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/code/\u00a74-1410",
+      "doc_mpath": "Upper Mattaponi Tribal Code of Law|4|14|1410|",
+      "lib_mpath": "umitribe/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribal Code of Law",
+      "path": "4|\u00a71411",
+      "ptag": "section",
+      "cite": " Title 4, 1411",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/code/\u00a74-1411",
+      "doc_mpath": "Upper Mattaponi Tribal Code of Law|4|14|1411|",
+      "lib_mpath": "umitribe/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribal Code of Law",
+      "path": "4|\u00a71412",
+      "ptag": "section",
+      "cite": " Title 4, 1412",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/code/\u00a74-1412",
+      "doc_mpath": "Upper Mattaponi Tribal Code of Law|4|12|1412|",
+      "lib_mpath": "umitribe/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribal Code of Law",
+      "path": "44|\u00a7204",
+      "ptag": "section",
+      "cite": " Title 44, 204",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/umitribe/council/code/\u00a744-204",
+      "doc_mpath": "Upper Mattaponi Tribal Code of Law|44|2|204|",
+      "lib_mpath": "umitribe/law-rdf|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2026-06-15",
+  "codified_date": "2025-08-25",
+  "reasons": {
+    "Upper Mattaponi Tribe Bill No. 2025-02": [
+      "effective"
+    ],
+    "Upper Mattaponi Tribe Bill No. 2025-03": [
+      "effective"
+    ]
+  }
+}
