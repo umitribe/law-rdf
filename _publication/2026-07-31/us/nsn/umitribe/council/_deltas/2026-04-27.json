@@ -1,0 +1,150 @@
+{
+  "data": [
+    {
+      "doc": "Upper Mattaponi Tribe Budget Res. No. 2026-02",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/nsn/umitribe/council/budget-resolutions/2026/2026-02",
+      "doc_mpath": "Upper Mattaponi Tribe Budget Res. No. 2026-02|",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./budget-resolutions|2026|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribal Code of Law",
+      "path": "42|5",
+      "ptag": "container",
+      "cite": " Title 42, Chapter 5",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/code/42-5",
+      "doc_mpath": "Upper Mattaponi Tribal Code of Law|42|5|",
+      "lib_mpath": "umitribe/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribal Code of Law",
+      "path": "42|\u00a7501",
+      "ptag": "section",
+      "cite": " Title 42, 501",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/code/\u00a742-501",
+      "doc_mpath": "Upper Mattaponi Tribal Code of Law|42|5|501|",
+      "lib_mpath": "umitribe/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribal Code of Law",
+      "path": "42|\u00a7502",
+      "ptag": "section",
+      "cite": " Title 42, 502",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/code/\u00a742-502",
+      "doc_mpath": "Upper Mattaponi Tribal Code of Law|42|5|502|",
+      "lib_mpath": "umitribe/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribal Code of Law",
+      "path": "42|\u00a7503",
+      "ptag": "section",
+      "cite": " Title 42, 503",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/code/\u00a742-503",
+      "doc_mpath": "Upper Mattaponi Tribal Code of Law|42|5|503|",
+      "lib_mpath": "umitribe/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribal Code of Law",
+      "path": "42|\u00a7504",
+      "ptag": "section",
+      "cite": " Title 42, 504",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/code/\u00a742-504",
+      "doc_mpath": "Upper Mattaponi Tribal Code of Law|42|5|504|",
+      "lib_mpath": "umitribe/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribal Code of Law",
+      "path": "42|\u00a7505",
+      "ptag": "section",
+      "cite": " Title 42, 505",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/umitribe/council/code/\u00a742-505",
+      "doc_mpath": "Upper Mattaponi Tribal Code of Law|42|5|505|",
+      "lib_mpath": "umitribe/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribe Res. No. 2026-13",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/nsn/umitribe/council/resolutions/2026/2026-13",
+      "doc_mpath": "Upper Mattaponi Tribe Res. No. 2026-13|",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./resolutions|2026|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribe Res. No. 2026-14",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/nsn/umitribe/council/resolutions/2026/2026-14",
+      "doc_mpath": "Upper Mattaponi Tribe Res. No. 2026-14|",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./resolutions|2026|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribe Res. No. 2026-15",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/nsn/umitribe/council/resolutions/2026/2026-15",
+      "doc_mpath": "Upper Mattaponi Tribe Res. No. 2026-15|",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./resolutions|2026|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2026-07-31",
+  "codified_date": "2026-04-27",
+  "reasons": {
+    "Upper Mattaponi Tribe Budget Res. No. 2026-02": [
+      "effective"
+    ],
+    "Upper Mattaponi Tribe Res. No. 2026-13": [
+      "effective"
+    ],
+    "Upper Mattaponi Tribe Res. No. 2026-14": [
+      "effective"
+    ],
+    "Upper Mattaponi Tribe Res. No. 2026-15": [
+      "effective"
+    ]
+  }
+}
