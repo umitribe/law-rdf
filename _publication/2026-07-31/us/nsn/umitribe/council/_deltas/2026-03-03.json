@@ -1,0 +1,72 @@
+{
+  "data": [
+    {
+      "doc": "Upper Mattaponi Tribe Res. No. 2026-03",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/nsn/umitribe/council/resolutions/2026/2026-03",
+      "doc_mpath": "Upper Mattaponi Tribe Res. No. 2026-03|",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./resolutions|2026|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribe Res. No. 2026-04",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/nsn/umitribe/council/resolutions/2026/2026-04",
+      "doc_mpath": "Upper Mattaponi Tribe Res. No. 2026-04|",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./resolutions|2026|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribe Res. No. 2026-05",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/nsn/umitribe/council/resolutions/2026/2026-05",
+      "doc_mpath": "Upper Mattaponi Tribe Res. No. 2026-05|",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./resolutions|2026|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribe Res. No. 2026-07",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/nsn/umitribe/council/resolutions/2026/2026-07",
+      "doc_mpath": "Upper Mattaponi Tribe Res. No. 2026-07|",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./resolutions|2026|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2026-07-31",
+  "codified_date": "2026-03-03",
+  "reasons": {
+    "Upper Mattaponi Tribe Res. No. 2026-03": [
+      "effective"
+    ],
+    "Upper Mattaponi Tribe Res. No. 2026-04": [
+      "effective"
+    ],
+    "Upper Mattaponi Tribe Res. No. 2026-05": [
+      "effective"
+    ],
+    "Upper Mattaponi Tribe Res. No. 2026-07": [
+      "effective"
+    ]
+  }
+}
