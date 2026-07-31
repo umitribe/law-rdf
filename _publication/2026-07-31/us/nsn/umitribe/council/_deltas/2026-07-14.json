@@ -1,0 +1,154 @@
+{
+  "data": [
+    {
+      "doc": "Upper Mattaponi Tribe Bill No. 2026-02",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/nsn/umitribe/council/bills/2026/2026-02",
+      "doc_mpath": "Upper Mattaponi Tribe Bill No. 2026-02|",
+      "lib_mpath": "umitribe/law-rdf|Resolutions/Bills/Orders|./bills|2026|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribal Code of Law",
+      "path": "28|2",
+      "ptag": "container",
+      "cite": " Title 28, Chapter 2",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/umitribe/council/code/28-2",
+      "doc_mpath": "Upper Mattaponi Tribal Code of Law|28|2|",
+      "lib_mpath": "umitribe/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribal Code of Law",
+      "path": "28|\u00a7100",
+      "ptag": "section",
+      "cite": " Title 28, 100",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/umitribe/council/code/\u00a728-100",
+      "doc_mpath": "Upper Mattaponi Tribal Code of Law|28|1|100|",
+      "lib_mpath": "umitribe/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribal Code of Law",
+      "path": "28|\u00a7102",
+      "ptag": "section",
+      "cite": " Title 28, 102",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/umitribe/council/code/\u00a728-102",
+      "doc_mpath": "Upper Mattaponi Tribal Code of Law|28|1|102|",
+      "lib_mpath": "umitribe/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribal Code of Law",
+      "path": "28|\u00a7103",
+      "ptag": "section",
+      "cite": " Title 28, 103",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/umitribe/council/code/\u00a728-103",
+      "doc_mpath": "Upper Mattaponi Tribal Code of Law|28|1|103|",
+      "lib_mpath": "umitribe/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribal Code of Law",
+      "path": "28|\u00a7106",
+      "ptag": "section",
+      "cite": " Title 28, 106",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/umitribe/council/code/\u00a728-106",
+      "doc_mpath": "Upper Mattaponi Tribal Code of Law|28|1|106|",
+      "lib_mpath": "umitribe/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribal Code of Law",
+      "path": "28|\u00a7200",
+      "ptag": "section",
+      "cite": " Title 28, 200",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/umitribe/council/code/\u00a728-200",
+      "doc_mpath": "Upper Mattaponi Tribal Code of Law|28|2|200|",
+      "lib_mpath": "umitribe/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribal Code of Law",
+      "path": "28|\u00a7205",
+      "ptag": "section",
+      "cite": " Title 28, 205",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/umitribe/council/code/\u00a728-205",
+      "doc_mpath": "Upper Mattaponi Tribal Code of Law|28|2|205|",
+      "lib_mpath": "umitribe/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribal Code of Law",
+      "path": "28|\u00a7206",
+      "ptag": "section",
+      "cite": " Title 28, 206",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/umitribe/council/code/\u00a728-206",
+      "doc_mpath": "Upper Mattaponi Tribal Code of Law|28|2|206|",
+      "lib_mpath": "umitribe/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribal Code of Law",
+      "path": "28|\u00a7410",
+      "ptag": "section",
+      "cite": " Title 28, 410",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/umitribe/council/code/\u00a728-410",
+      "doc_mpath": "Upper Mattaponi Tribal Code of Law|28|4|410|",
+      "lib_mpath": "umitribe/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Upper Mattaponi Tribal Code of Law",
+      "path": "28|\u00a7601",
+      "ptag": "section",
+      "cite": " Title 28, 601",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/umitribe/council/code/\u00a728-601",
+      "doc_mpath": "Upper Mattaponi Tribal Code of Law|28|6|601|",
+      "lib_mpath": "umitribe/law-rdf|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2026-07-31",
+  "codified_date": "2026-07-14",
+  "reasons": {
+    "Upper Mattaponi Tribe Bill No. 2026-02": [
+      "effective"
+    ]
+  }
+}
