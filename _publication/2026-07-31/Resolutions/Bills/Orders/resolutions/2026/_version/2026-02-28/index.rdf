@@ -1,0 +1,34 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2026-07-31/_date/2026-02-28/Resolutions/Bills/Orders/resolutions/2026">
+    <dcterms:isVersionOf rdf:resource="https://law.umitribe.org/_publication/2026-07-31/Resolutions/Bills/Orders/resolutions/2026"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#CollectionVersion"/>
+    <rdfs:label xml:lang="en">2026 Resolutions</rdfs:label>
+    <oll:codifiedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-02-28</oll:codifiedDate>
+    <oll:hasChanges rdf:resource="https://law.umitribe.org/_publication/2026-07-31/_date/2026-02-28/Resolutions/Bills/Orders/resolutions/2026/_changes"/>
+    <oll:hasElements rdf:resource="https://law.umitribe.org/_publication/2026-07-31/_date/2026-02-28/Resolutions/Bills/Orders/resolutions/2026/_elements"/>
+    <oll:isPartOfPublication rdf:resource="https://law.umitribe.org/_publication/2026-07-31"/>
+    <oll:libraryMaterializedPath xml:lang="en">umitribe/law-rdf|Resolutions/Bills/Orders|./resolutions|2026|</oll:libraryMaterializedPath>
+    <oll:name xml:lang="en">2026</oll:name>
+    <oll:ptag xml:lang="en">collection</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/Resolutions/Bills/Orders/./resolutions/2026</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2026-07-31/_date/2026-02-28/Resolutions/Bills/Orders/resolutions/2026/_changes">
+    <rdf:_1 rdf:resource="https://law.umitribe.org/_publication/2026-07-31/_date/2026-02-28/us/nsn/umitribe/council/resolutions/2026/2026-03"/>
+    <rdf:_2 rdf:resource="https://law.umitribe.org/_publication/2026-07-31/_date/2026-02-28/us/nsn/umitribe/council/resolutions/2026/2026-04"/>
+    <rdf:_3 rdf:resource="https://law.umitribe.org/_publication/2026-07-31/_date/2026-02-28/us/nsn/umitribe/council/resolutions/2026/2026-05"/>
+    <rdf:_4 rdf:resource="https://law.umitribe.org/_publication/2026-07-31/_date/2026-02-28/us/nsn/umitribe/council/resolutions/2026/2026-07"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.umitribe.org/_publication/2026-07-31/_date/2026-02-28/Resolutions/Bills/Orders/resolutions/2026/_elements">
+    <rdf:_1 xml:lang="en">2026 Resolutions</rdf:_1>
+    <rdf:_2 xml:lang="en">Adopted</rdf:_2>
+    <rdf:_3 rdf:resource="https://law.umitribe.org/us/nsn/umitribe/council/resolutions/2026/2026-07"/>
+    <rdf:_4 rdf:resource="https://law.umitribe.org/us/nsn/umitribe/council/resolutions/2026/2026-05"/>
+    <rdf:_5 rdf:resource="https://law.umitribe.org/us/nsn/umitribe/council/resolutions/2026/2026-04"/>
+    <rdf:_6 rdf:resource="https://law.umitribe.org/us/nsn/umitribe/council/resolutions/2026/2026-03"/>
+    <rdf:_7 rdf:resource="https://law.umitribe.org/us/nsn/umitribe/council/resolutions/2026/2026-02"/>
+    <rdf:_8 rdf:resource="https://law.umitribe.org/us/nsn/umitribe/council/resolutions/2026/2026-01"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+  </rdf:Description>
+</rdf:RDF>
